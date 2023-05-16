@@ -1,0 +1,21 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have occupied one of our outposts on the UN Buffer Zone border. 
+We have received reports that they are fortifying their position and increasing their numbers.
+
+Objective: Conduct an armed recon mission to gather intelligence on enemy positions and strength, as well as assess their defenses and locate any vulnerable points for future operations.
+
+Primary Target: Obtain high-quality reconnaissance imagery of enemy positions, installations, and fortifications. Locate any entrances, exits, or weak spots in their defenses.
+
+Secondary Target: If possible, conduct a stealthy raid on the enemy outpost to capture any enemy personnel or equipment that could provide valuable intelligence.
+
+ROE: Weapons Free. Engage enemy forces only if absolutely necessary for mission success or self-defense.
+Minimize collateral damage and civilian casualties.
+
+Threats: The enemy forces are heavily armed and well-trained, with significant firepower and fortifications. 
+Expect mines, booby traps, and other improvised explosive devices (IEDs). The enemy is likely to be vigilant and may have air support and reinforcements nearby.
+]]

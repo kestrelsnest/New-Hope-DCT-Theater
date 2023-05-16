@@ -1,0 +1,13 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: The enemy has established a number of AAA sites in a Beirut Airport Area. 
+The AAA is posing a serious threat to friendly air assets and hindering operations.
+
+Objective: Locate and destroy the AAA emplacements to secure friendly airspace.
+
+Threats: The area is heavily defended with multiple AAA sites and the possibility of enemy ground forces.
+]]

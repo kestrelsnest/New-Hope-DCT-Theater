@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+regenerate = true
+desc = [[
+Situation: Our aircraft have been unable to penetrate the enemy's air defenses due to the presence of several SA-6 SAM sites in the target area.
+
+Objective: Neutralize the SA-6 SAM sites to enable our aircraft to reach their targets.
+
+Threats: AAA, MANPADS, other SAM sites.
+]]

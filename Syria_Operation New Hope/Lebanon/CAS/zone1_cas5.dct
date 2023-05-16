@@ -1,0 +1,21 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Our friendly forces are holding a key military base in the area, but they are under heavy attack from enemy armor and infantry. 
+The base is located in a relatively open area, with a nearby town to the south and a forested area to the north. 
+A JTAC is on station and ready to provide target designation.
+
+Objective: Our objective is to provide close air support to the friendly forces at the military base 
+and destroy enemy armor and infantry positions in the area to relieve pressure on the friendly forces.
+All weapons are cleared hot within the target area as designated by the JTAC. 
+
+Threats: The main threat in the area is enemy armor, including tanks and armored personnel carriers, as well as infantry equipped with anti-aircraft weapons. 
+The enemy is likely to be using the nearby cover of the forested area to advance on the base, and may also be using the nearby town as a staging area for their attacks. 
+There is a potential for MANPADS to be present in the area, so caution should be exercised when approaching the target area.
+
+JTAC: AXEMAN 133.00 AM
+]]

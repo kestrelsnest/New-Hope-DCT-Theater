@@ -1,0 +1,13 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: An enemy has recently established an AAA position near a strategic area. 
+There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+
+Objective: Conduct a precision strike on the AAA position.
+
+Threats: Heavy AAA fire, potential enemy ground forces in the area.
+]]

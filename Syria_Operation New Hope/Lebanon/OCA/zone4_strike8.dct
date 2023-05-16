@@ -1,0 +1,12 @@
+objtype = "oca"
+intel = 4
+coalition = 1
+cost = 20
+desc = [[
+Situation: A enemy cargo helicopter has been identified at Rayak and needs to be destroyed. 
+The area is believed to be well guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the transport airplane and disrupt the enemy's ability to supply its military operations.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

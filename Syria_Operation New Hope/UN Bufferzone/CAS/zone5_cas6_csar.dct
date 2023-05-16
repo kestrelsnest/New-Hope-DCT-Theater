@@ -1,0 +1,23 @@
+objtype = "frontline"
+intel = 3
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: The enemy is attacking our outpost and our friendly forces are waiting for extraction. 
+The enemy has deployed heavy weapons and has started to close in on our position. 
+We need to provide close air support to neutralize the enemy and allow our troops to evacuate safely.
+
+Objective: Our primary objective is to neutralize the enemy forces attacking our outpost and provide cover for our friendly troops to evacuate. 
+
+Primary Target: The primary target is the enemy forces attacking our outpost. 
+We need to neutralize them to ensure the safety of our troops and allow for the evacuation process.
+
+Secondary Target: EVAC freindly units to Rosh Pina Airbase (optional)
+
+ROE: Weapons free. We have been authorized to use any means necessary to protect our friendly forces and neutralize the enemy.
+
+Threats: The enemy has heavy weapons and is closing in on our position. 
+They may also have anti-aircraft weapons that could pose a threat to our aircraft. 
+We need to stay alert and take necessary precautions to ensure mission success.
+]]

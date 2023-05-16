@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 1
+regenerate = true
+spawnalways = true
+desc = [[
+Situation: The enemy has fortified a key position with a SA-5 SAM site, making it difficult for our forces to advance.
+
+Objective: Conduct a SEAD mission to destroy the SA-5 SAM site and weaken the enemy's defensive position.
+
+Threats: The SA-5 SAM site is well defended and surrounded by additional AAA and other SAM sites, and there may be enemy fighter jets in the area.
+]]

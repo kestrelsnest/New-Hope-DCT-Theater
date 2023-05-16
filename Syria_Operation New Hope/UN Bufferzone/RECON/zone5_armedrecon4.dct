@@ -1,0 +1,15 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Recent reconnaissance has identified a significant enemy buildup on the other side of our border. 
+The enemy forces appear to be preparing for an invasion, and there are indications that they may be using some new weapon systems.
+
+Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy forces and their capabilities. 
+Identify the enemy weapon systems and any other significant information that can be used to prepare for a possible invasion.
+
+Threats: The area is heavily defended with a variety of anti-aircraft and other defensive systems. 
+The enemy may also have patrols and reconnaissance units in the area, and there is a risk of engagement with ground forces.
+]]

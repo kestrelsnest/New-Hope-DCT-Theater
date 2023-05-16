@@ -1,0 +1,15 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 1
+regenerate = true
+spawnalways = true
+desc = [[
+Situation: An SA-10 SAM Site has been detected in the area, threatening our air superiority over the region. 
+We need to neutralize the threat to allow our aircraft to operate freely.
+
+Objective: Destroy the SA-10 SAM Site.
+
+Threats: The SA-10 battery is protected by multiple other SAM sites and AAA units, and the surrounding area is heavily defended.
+]]

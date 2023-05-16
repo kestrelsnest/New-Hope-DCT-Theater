@@ -1,0 +1,13 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+desc = [[
+Situation: %LOCATIONMETHOD% a enemy group that crossed Israel border. We need to confirm their presence and gather intelligence on their activities.
+
+Objective: Conduct an armed reconnaissance mission to identify any enemy targets in the designated area and gather intelligence on their activities.
+You are authorized to engage any enemy forces that pose a threat to friendly forces or are actively engaging friendly forces. 
+Use of force against the high-value target is prohibited unless authorized by higher command.
+
+Threats: The area of operation is unknown and may contain a range of potential threats, including enemy ground forces, air defenses.
+]]

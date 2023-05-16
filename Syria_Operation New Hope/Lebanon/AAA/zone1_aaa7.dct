@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: An enemy stronghold located deep within their territory is being used as a hub for AAA emplacements, severely hampering friendly air operations.
+
+Objective: Conduct a surgical strike to neutralize all AAA emplacements and associated infrastructure.
+
+Threats: Multiple AAA emplacements, enemy ground forces, potential air defenses.
+]]

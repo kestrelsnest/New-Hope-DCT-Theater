@@ -1,0 +1,12 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have taken control of a bridge and are using it to move supplies and personnel across a river.
+
+Objective: Destroy the bridge and any enemy forces in the area.
+
+Threats: AAA, ground forces, potential enemy air threats.
+]]

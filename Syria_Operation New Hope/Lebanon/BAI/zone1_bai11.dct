@@ -1,0 +1,20 @@
+objtype = "checkpoint"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has established a road outpost that is disrupting our supply lines.
+
+Objective: Destroy the enemy road outpost and any vehicles in the area.
+
+Primary Target: The enemy road outpost.
+
+Secondary Target: Any enemy vehicles in the area.
+
+ROE: Weapons Free.
+
+Threats: The enemy outpost is likely heavily defended and may have anti-aircraft weapons. 
+Be on the lookout for enemy reinforcements and ground troops in the area. 
+Use caution when flying low to avoid detection by enemy radar.
+]]

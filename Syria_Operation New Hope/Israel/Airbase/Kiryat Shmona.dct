@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "Kiryat Shmona"
+coalition = 2
+capturable = true
+subordinates = {}
+desc = "Kiryat Shmona"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25
+spawnalways = true

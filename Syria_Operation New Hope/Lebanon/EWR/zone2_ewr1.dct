@@ -1,0 +1,12 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+desc = [[
+Situation: Our intelligence has confirmed the presence of an EWR at Beirut Airport. 
+
+Objective: The objective is to eliminate the EWR without getting shot down by enemy air defenses.
+
+Threats: Enemy air defenses, including SAM sites and fighter aircraft.
+]]

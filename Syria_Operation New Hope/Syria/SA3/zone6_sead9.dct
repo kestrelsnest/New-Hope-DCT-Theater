@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has moved their SA-3 SAM sites to cover our expected approach routes in the target area, indicating they have knowledge of our plans.
+
+Objective: Eliminate the SA-3 SAM sites to maintain the element of surprise and protect our forces.
+
+Threats: AAA, MANPADS, other SAM sites.
+]]

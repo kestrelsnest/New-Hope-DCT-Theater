@@ -1,0 +1,13 @@
+objtype = "ammodump"
+intel = 4
+coalition = 1
+cost = 20
+priority = 8
+desc = [[
+Situation: An important enemy military logistics center has been identified as a key target. 
+The facility is believed to be well guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the logistics center and disrupt the enemy's ability to supply its military operations.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

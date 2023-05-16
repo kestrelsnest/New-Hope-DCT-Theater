@@ -1,0 +1,14 @@
+objtype = "airbase"
+name = "King Hussein Air College"
+coalition = 2
+subordinates = {
+    "30e",
+    "731st",
+    "13th",
+    "No1",
+}
+desc = "King Hussein Air College"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25
+spawnalways = true

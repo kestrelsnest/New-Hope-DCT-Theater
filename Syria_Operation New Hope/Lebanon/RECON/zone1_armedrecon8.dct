@@ -1,0 +1,13 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have been spotted near an industrial facility in the designated area. 
+They appear to be gathering supplies and setting up defenses around the perimeter.
+
+Objective: Conduct an armed reconnaissance mission to gather intel on enemy numbers, equipment, and deployment around the facility.
+
+Threats:Enemy anti-aircraft artillery (AAA) and potential air patrols in the area. 
+The enemy may also have armored vehicles and infantry forces in the vicinity.
+]]

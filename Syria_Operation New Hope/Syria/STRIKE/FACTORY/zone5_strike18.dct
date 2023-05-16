@@ -1,0 +1,14 @@
+objtype = "Factory"
+intel = 4
+coalition = 1
+cost = 50
+coalition = 1 
+priority = 10
+desc = [[
+Situation: A high classified factory, believed to be producing chemical weapons, has been identified as a key target for destruction. 
+The facility is believed to be heavily guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy or critically damage all three main factory buildings to disrupt the enemy's ability to produce chemical weapons.
+
+Threats: AAA, SAMs and other enemy ground forces are expected in the area.
+]]

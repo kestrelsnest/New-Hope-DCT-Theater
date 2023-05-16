@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+desc = [[
+Situation: An EWR has been detected in an enemy-held area on the outskirts of a major city. 
+It is being used to coordinate enemy air defenses and guide their fighter aircraft to engage our aircraft.
+
+Objective: The objective is to locate and destroy the EWR while avoiding detection by enemy radar and air defenses.
+
+Threats: Enemy air defenses, including fighter aircraft, and ground-based air defenses.
+]]

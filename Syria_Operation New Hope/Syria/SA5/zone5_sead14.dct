@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 1
+regenerate = true
+spawnalways = true
+desc = [[
+Situation: Our forces are planning an air assault on a high-value target in the enemy's territory, but a SA-5 SAM site is blocking our path.
+
+Objective: Neutralize the SA-5 SAM site to clear the way for our air assault.
+
+Threats: The SA-5 SAM site is well defended and has additional AAA and other SAM sites in the vicinity.
+]]

@@ -1,0 +1,12 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have been spotted holding a strategic location, using the natural terrain to their advantage.
+
+Objective: Conduct a BAI mission to destroy the enemy forces and deny them their strategic position.
+
+Threats: AAA, MANPADS, and ground-based threats.
+]]

@@ -1,0 +1,19 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy moving to our airport. Our recon squad surrounded on the north of the airbase
+
+Objective: Provide close air support to our recon squad, prevent enemy forces from overrunning them, and allow them to safely withdraw from the area.
+
+Primary Target: Enemy infantry positions and vehicles around the recon squad
+
+Secondary Target: Any enemy reinforcements attempting to move towards the area
+
+ROE: Weapons Free, but ensure the safety of friendly forces and civilians in the area
+
+Threats: Enemy small arms fire, anti-aircraft weapons, possible enemy air support, and civilian presence in the area.
+]]

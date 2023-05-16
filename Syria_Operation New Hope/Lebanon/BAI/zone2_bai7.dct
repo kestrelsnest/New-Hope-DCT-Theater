@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has set up a checkpoint on a key road, limiting friendly movement and resupply. 
+The checkpoint must be neutralized to allow friendly forces to continue their advance.
+
+Objective: Locate and destroy the enemy checkpoint and any supporting forces.
+
+Threats: AAA, enemy ground forces.
+]]

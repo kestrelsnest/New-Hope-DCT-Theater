@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 15
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has deployed multiple SA-2 SAM sites in the region, posing a significant threat to our air operations. 
+Intel has identified one such site near the coast, and we need to take it out to ensure air superiority.
+
+Objective: Destroy the SA-2 SAM site near the coast.
+
+Threats: AAA, other SAM sites.
+]]

@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy is believed to have set up a SA-2 SAM site in a mountainous area, making it difficult to target.
+
+Objective: Destroy the SA-2 SAM site and eliminate the threat to friendly aircraft.
+
+Threats: AAA, other SAM sites.
+]]

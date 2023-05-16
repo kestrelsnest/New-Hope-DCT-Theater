@@ -1,0 +1,11 @@
+objtype = "sea"
+intel = 3
+cost = 15
+ondemand = true
+coalition = 1
+desc = [[
+Situation: A group of enemy warships have been detected patrolling a coastal area that is important for our maritime operations.
+
+Objective: The objective of this mission is to neutralize or destroy the enemy warships to protect our naval assets and maintain control of the coastal area.
+
+Threats: The primary threat is the enemy warships, which may be supported by shore-based anti-ship missiles and air defense systems.]]

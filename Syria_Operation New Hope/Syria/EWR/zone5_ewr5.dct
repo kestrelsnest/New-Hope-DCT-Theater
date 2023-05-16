@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+desc = [[
+Situation: The enemy has established a network of EWR SAM Sites in the area, making it difficult for our aircraft to operate effectively. 
+We need to neutralize these sites to regain control of the airspace.
+
+Objective: Take out all identified EWR SAM Sites in the area to regain control of the airspace.
+
+Threats: Unknown, potential AAA and other ground-based defenses.
+]]

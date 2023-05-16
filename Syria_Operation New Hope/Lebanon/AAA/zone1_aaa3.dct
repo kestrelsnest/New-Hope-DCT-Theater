@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: Enemy forces have established a air defense units near the road outpost, posing a significant threat to friendly air assets.
+
+Objective: Neutralize all AAA emplacements and associated infrastructure.
+
+Threats: Multiple AAA emplacements, advanced air defense systems, enemy ground forces.
+]]

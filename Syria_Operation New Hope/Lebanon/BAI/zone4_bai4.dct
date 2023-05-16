@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have been spotted holding a strategic location and not moving. 
+Our forces are currently unable to engage due to the risk of collateral damage.
+
+Objective: Conduct a precision strike on the enemy forces to neutralize their ability to engage our ground forces.
+
+Threats: AAA and ground-based threats.
+]]

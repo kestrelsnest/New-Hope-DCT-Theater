@@ -1,0 +1,19 @@
+objtype = "ammodump"
+intel = 4
+coalition = 1
+cost = 20
+priority = 8
+desc = [[
+Situation: The enemy has been stockpiling ammunition in a hidden facility
+
+Objective: Destroy the ammunition storage facility to deny the enemy access to their weapons
+
+Primary Target: The ammunition storage facility, identified by satellite imagery
+
+Secondary Target: Any enemy forces or vehicles guarding the facility, identified by surveillance drones
+
+ROE: Weapons Free
+
+Threats: Enemy forces may be heavily armed and may have air defense systems in place to protect the facility. 
+Be prepared for potential counterattacks and take appropriate precautions to avoid friendly fire incidents.
+]]

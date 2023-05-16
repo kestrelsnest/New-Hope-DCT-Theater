@@ -1,0 +1,21 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+spawnalways = true
+desc = [[
+Situation: A friendly helicopter has been downed, and the enemy is moving towards its position.
+
+Objective: Provide close air support to protect the downed helicopter and the friendly troops in the area.
+
+Primary Target: The primary target is the enemy light armor advancing towards the downed helicopter and friendly troops.
+
+Secondary Target: Extract friendly units and transport them to Rosh Pina Aribase (Optional)
+
+ROE: Weapons free. Engage any targets that pose a threat to friendly forces.
+
+Threats: The main threats are enemy light armor  with small arms and light anti-aircraft weapons. 
+There may also be enemy vehicles or heavy weapons in the area that pose a threat to friendly forces.
+]]

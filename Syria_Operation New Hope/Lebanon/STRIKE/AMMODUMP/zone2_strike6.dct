@@ -1,0 +1,21 @@
+objtype = "ammodump"
+intel = 4
+coalition = 1
+cost = 20
+priority = 8
+desc = [[
+Situation: Our intelligence indicates that an enemy warehouse has been turned into an ammo depot. 
+The depot is heavily guarded by enemy soldiers.
+
+Objective: Your objective is to strike the warehouse and neutralize the enemy threat by destroying the ammo depot.
+
+Primary Target: The primary target is the ammo depot located inside the warehouse. 
+The ammo depot contains various types of ammunition, including rockets, mortars, and grenades.
+
+Secondary Target: The secondary target is any enemy personnel in the area. The enemy soldiers guarding the ammo depot must be neutralized to ensure the safety of our troops.
+
+ROE: Weapons Free. You are authorized to engage any enemy targets in the area. Use caution to avoid civilian casualties and collateral damage.
+
+Threats: The enemy soldiers guarding the ammo depot are armed with assault rifles, RPGs, and other heavy weapons. 
+Expect resistance and be prepared for a fight. The area may also be booby-trapped with mines or IEDs, so exercise caution while navigating the area.
+]]

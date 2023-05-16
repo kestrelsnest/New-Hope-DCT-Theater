@@ -1,0 +1,13 @@
+
+objtype = "airbase"
+name = "Beirut-Rafic Hariri"
+coalition = 0
+subordinates = {
+}
+players = {
+}
+desc = "Beirut-Rafic Hariri"
+capturable = true
+recoverytype = "land"
+takeofftype = "runway"
+cost = 100

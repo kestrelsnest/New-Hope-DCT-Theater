@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: Intelligence reports indicate a AAA installation at %LOCATION%"
+
+Objective: Strike the enemy AAA installation to secure friendly airspace.
+
+Threats: Multiple AAA emplacements are expected to be in the area, along with the possibility of enemy fighter aircraft.
+]]

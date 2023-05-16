@@ -1,0 +1,18 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Friendlies are holding a compound in a built-up urban area. 
+The enemy has infiltrated the area and is using buildings to launch attacks on the friendly forces. 
+The friendly forces are under heavy fire and are in danger of being overrun.
+
+Objective: Provide close air support to the friendly forces at the compound. 
+Suppress enemy forces and prevent them from overrunning the friendly position.
+Help the friendly forces clear the buildings and eliminate the enemy threat.
+Only engage confirmed hostile targets.
+
+Threats: Enemy ground forces, snipers, improvised explosive devices (IEDs).
+]]

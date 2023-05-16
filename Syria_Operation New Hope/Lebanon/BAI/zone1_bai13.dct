@@ -1,0 +1,20 @@
+objtype = "checkpoint"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has established a road outpost on a major supply route, disrupting our resupply efforts to our forward operating bases.
+
+Objective: Conduct a BAI mission to destroy the enemy road outpost and prevent their disruption of our supply lines.
+
+Primary Target: The enemy road outpost and its defenses, including any vehicles, personnel, and fortifications.
+
+Secondary Target: Any enemy vehicles or personnel attempting to reinforce or resupply the road outpost.
+
+ROE: Weapons Free on all enemy targets. Exercise caution to avoid collateral damage to nearby civilian structures and vehicles.
+
+Threats: The enemy may have anti-aircraft weapons and other air defense systems in the vicinity of the road outpost. 
+There may also be enemy patrols or ambushes in the surrounding area. 
+Be prepared for hostile fire and take appropriate evasive action as necessary.
+]]

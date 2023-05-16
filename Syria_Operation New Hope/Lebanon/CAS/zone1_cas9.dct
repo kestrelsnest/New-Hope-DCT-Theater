@@ -1,0 +1,22 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have captured our airport and our remaining defenders are surrounded.
+
+Objective: The primary objective is to provide close air support (CAS) to our defenders on the ground, neutralizing enemy forces and allowing our troops to break through and retake control of the airport.
+
+Primary Target: The primary targets will be enemy forces and positions that are engaging our troops on the ground. 
+These could include enemy infantry, armored vehicles, and fortified positions.
+
+Secondary Target: Secondary targets may include any additional enemy forces or positions that are deemed a threat to our mission or to our troops on the ground. 
+This could include enemy command and control centers, artillery positions, or supply depots.
+
+ROE: Weapons Free. You are authorized to engage any enemy targets that pose a threat to our mission or to our troops on the ground.
+
+Threats: The enemy may have a variety of threats, including ground-based anti-aircraft weapons, enemy aircraft, and surface-to-air missiles. 
+It is important to maintain situational awareness and to work closely with ground forces to ensure a successful mission.
+]]

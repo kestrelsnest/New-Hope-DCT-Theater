@@ -1,0 +1,4 @@
+objtype = "frontline"
+intel = 1
+cost = 5
+desc = "%LOCATIONMETHOD% enemy units at %LOCATION%"

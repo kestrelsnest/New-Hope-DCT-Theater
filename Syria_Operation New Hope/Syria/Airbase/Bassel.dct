@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "Bassel Al-Assad"
+desc = "Bassel Al-Assad"
+coalition = 1
+subordinates = {
+ 
+}
+recoverytype = "land"
+takeofftype = "runway"
+cost = 22

@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has established a staging area for reinforcements and supplies in a remote location. 
+This facility must be destroyed before the enemy can use it to bolster their forces.
+
+Objective: Locate and destroy the enemy staging facility.
+
+Threats: AAA, possible enemy air cover, enemy ground forces.
+]]

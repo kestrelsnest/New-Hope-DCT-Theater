@@ -1,0 +1,15 @@
+objtype = "airbase"
+name = "Ramat David"
+coalition = 2
+subordinates = {
+	"101st",
+	"106st",
+	"172nd",
+	"450th",
+	"No83",
+}
+desc = "Ramat David"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25
+spawnalways = true

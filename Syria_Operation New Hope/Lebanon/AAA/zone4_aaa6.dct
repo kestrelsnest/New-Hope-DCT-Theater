@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: The enemy has established a significant AAA presence in a mountain area. There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+
+Objective: Conduct a precision strike on the AAA positions to degrade the enemy's ability to conduct air defense operations in the region.
+
+Threats: Heavy AAA fire, potential enemy ground forces in the area.
+]]

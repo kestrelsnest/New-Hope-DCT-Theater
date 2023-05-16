@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+regenerate = true
+desc = [[
+Situation: The SA-2 SAM site is located in a heavily fortified area, with significant anti-aircraft defenses.
+
+Objective: Neutralize the SA-2 SAM site and eliminate the threat to friendly aircraft.
+
+Threats: AAA, other SAM sites, potential collateral damage.
+]]

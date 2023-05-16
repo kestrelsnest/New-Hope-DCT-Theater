@@ -1,0 +1,8 @@
+name = "Sea"
+priority = 5
+airspace = true
+links = {
+    air    = {},
+    ground = {},
+    sea    = {},
+}

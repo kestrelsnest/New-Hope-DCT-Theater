@@ -1,0 +1,12 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have set up a training camp in a remote area, where they are training new recruits.
+
+Objective: Destroy the training camp and any enemy forces in the area.
+
+Threats: AAA, ground forces, potential enemy air threats.
+]]

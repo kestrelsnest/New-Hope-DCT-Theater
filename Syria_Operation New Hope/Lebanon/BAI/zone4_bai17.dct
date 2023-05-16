@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have set up a defensive position at a key location on a mountain pass. 
+Our ground forces are unable to advance until the enemy is neutralized.
+
+Objective: Conduct a BAI mission to destroy the enemy position and allow our ground forces to advance.
+
+Threats: AAA, MANPADS, and ground-based threats.
+]]

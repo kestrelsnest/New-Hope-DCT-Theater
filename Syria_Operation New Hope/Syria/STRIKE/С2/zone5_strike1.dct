@@ -1,0 +1,14 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 25
+coalition = 1 
+priority = 10
+desc = [[
+Situation: The enemy has established a communication center in a dense urban area. 
+The communication center is heavily guarded by enemy troops and anti-aircraft defenses.
+
+Objective: The objective of this mission is to destroy the communication center and disrupt the enemy's ability to coordinate their military operations.
+
+Threats: The communication center is located in a dense urban area and heavily guarded by enemy troops and anti-aircraft defenses.
+]]

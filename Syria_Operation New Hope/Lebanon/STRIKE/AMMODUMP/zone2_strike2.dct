@@ -1,0 +1,13 @@
+objtype = "ammodump"
+intel = 4
+coalition = 1
+cost = 20
+priority = 8
+desc = [[
+Situation: A key enemy military facility has been identified and needs to be destroyed.
+The facility is located in a remote area, but is expected to be heavily guarded.
+
+Objective: The objective of this mission is to destroy the facility and disrupt the enemy's ability to conduct operations in the region.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

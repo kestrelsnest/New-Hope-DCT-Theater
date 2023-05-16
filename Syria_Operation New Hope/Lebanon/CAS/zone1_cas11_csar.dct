@@ -1,0 +1,22 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+spawnalways = true
+coalition = 1
+desc = [[
+Situation: Friendly special operations forces (SOF) are waiting for extraction, but the enemy is moving towards their position.
+
+Objective: The primary objective is to provide close air support (CAS) to the friendly SOF team and eliminate any enemy threats in the area to secure their extraction.
+
+Primary Target: The primary target is any enemy forces that pose a threat to the friendly SOF team. 
+This could include infantry, armored vehicles, or other military equipment.
+
+Secondary Target: Extract SOF team and trasport them to Haifa airbase (optional)
+
+ROE: Weapons free. You are authorized to engage any enemy targets that pose a threat to the friendly SOF team or interfere with their extraction.
+
+Threats: The threats in the area may include infantry, armored vehicles, anti-aircraft weapons, and other military equipment. 
+The enemy may also have air assets that could pose a threat to friendly aircraft.
+]]

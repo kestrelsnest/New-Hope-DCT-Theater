@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 15
+priority = 6
+regenerate = true
+desc = [[
+Situation: Our intelligence has identified the location of an SA-11 SAM site near Tripoli. 
+This site is preventing us from conducting operations in the region, and must be taken out.
+
+Objective: Target and destroy the identified SA-11 SAM site.
+
+Threats: AAA and other SAM sites.
+]]

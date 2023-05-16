@@ -1,0 +1,14 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Our intelligence sources have identified the location of the enemy general who is responsible for several attacks on our forces in the region. 
+He is on the move in a car. Last know position - Grid YC30 moving northwest from the training camp/
+
+Objective: Eliminate the enemy general to weaken the enemy's command structure and improve our position in the region.
+
+Threats: The area is also heavily defended with various anti-aircraft weapons, so SEAD operations are required prior to the mission.
+]]
+--The general's vehicle will be guarded by a small convoy, consisting of several armed vehicles. 

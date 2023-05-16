@@ -1,0 +1,14 @@
+objtype = "Factory"
+intel = 4
+coalition = 1
+cost = 50
+coalition = 1 
+priority = 10
+desc = [[
+Situation: A factory, believed to be producing radar systems, has been identified as a key target for destruction. 
+The facility is believed to be heavily guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the factory building.
+
+Threats: AAA, SAMs and other enemy ground forces are expected in the area.
+]]

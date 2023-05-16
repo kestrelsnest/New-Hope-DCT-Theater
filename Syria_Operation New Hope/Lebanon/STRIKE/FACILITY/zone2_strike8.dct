@@ -1,0 +1,19 @@
+objtype = "facility"
+intel = 4
+coalition = 1
+cost = 20
+coalition = 1 
+priority = 7
+desc = [[
+Situation: Enemy Power Plant facility
+
+Objective: Destroy the facility and eliminate all enemy personnel
+
+Primary Target: The main research building and all its contents
+
+Secondary Target: Any enemy personnel attempting to flee the area
+
+ROE: Weapons Free
+
+Threats: Enemy soldiers, armed security personnel, and possible booby traps or explosives within the facility.
+]]

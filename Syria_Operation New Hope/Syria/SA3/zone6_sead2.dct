@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has set up a SA-3 SAM site near a strategic location that we need to secure.
+
+Objective: Destroy the SA-3 SAM site to gain control of the strategic location.
+
+Threats: AAA and potential enemy ground forces.
+]]

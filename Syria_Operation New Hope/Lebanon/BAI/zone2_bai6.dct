@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy is using a nearby mountain pass to move troops and supplies. 
+We must interdict their movements and disrupt their ability to reinforce their forces.
+
+Objective: Locate and attack enemy forces moving through the mountain pass.
+
+Threats: AAA, possible enemy air cover, enemy ground forces.
+]]

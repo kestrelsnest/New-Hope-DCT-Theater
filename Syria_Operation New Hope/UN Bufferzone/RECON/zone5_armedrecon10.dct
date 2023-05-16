@@ -1,0 +1,15 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have established a camp in close proximity to the UN Buffer Zone. 
+Their presence in the area represents a violation of the ceasefire agreement and poses a threat to the safety and security of UN personnel and nearby civilian populations.
+
+Objective: Conduct an armed reconnaissance mission to gather information on the size, composition, and activity of the enemy forces in the area. 
+Identify potential targets for future operations and gather intelligence to support ongoing efforts to enforce the ceasefire agreement.
+
+Threats: The enemy may be equipped with anti-aircraft weapons and may be hostile to UN personnel and other foreign forces in the area. 
+They may also attempt to interfere with the reconnaissance mission or engage in other aggressive actions.
+]]

@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has set up a command and control center in a fortified compound. 
+This center is directing enemy forces in the area and must be eliminated to disrupt enemy operations.
+
+Objective: Locate and destroy the enemy forces protecting the Command and Control Center.
+
+Threats: AAA, enemy ground forces.
+]]

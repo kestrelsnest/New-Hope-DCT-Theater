@@ -1,0 +1,13 @@
+objtype = "facility"
+intel = 4
+coalition = 1
+cost = 20
+ondemand = true
+priority = 7
+desc = [[
+Situation: Enemy forces have established a checkpoint on a major road, blocking access to a key target.
+
+Objective: Clear the checkpoint and neutralize any enemy forces in the area.
+
+Threats: AAA, ground forces, potential enemy air threats.
+]]

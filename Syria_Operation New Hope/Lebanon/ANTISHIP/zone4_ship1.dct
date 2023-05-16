@@ -1,0 +1,11 @@
+objtype = "sea"
+intel = 3
+cost = 15
+ondemand = true
+coalition = 1
+desc = [[
+Situation: A group of cargo ships have been identified waiting to dock at an enemy port. The ships are believed to be carrying vital supplies and equipment for the enemy forces.
+
+Objective: The objective of this mission is to neutralize the cargo ships and prevent them from delivering their supplies to the enemy.
+
+Threats: The enemy may have coastal defense batteries and patrol boats in the area. Air defenses may also be present, including SAM sites and AAA.]]

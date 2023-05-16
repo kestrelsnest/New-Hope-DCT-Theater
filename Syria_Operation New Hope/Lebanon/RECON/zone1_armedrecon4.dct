@@ -1,0 +1,11 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+desc = [[
+Situation: Our industrial facility in the region has been under threat from enemy forces.
+
+Objective: Conduct armed reconnaissance of the area to identify enemy positions and movements, and eliminate any enemy units in the vicinity of the industrial facility to secure our operations.
+
+Threats: The area is heavily defended by enemy troops and armored units, and is protected by anti-aircraft artillery and other air defenses. Approach with caution and be prepared for heavy resistance.
+]]

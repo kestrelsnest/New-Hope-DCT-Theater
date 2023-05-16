@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: The enemy has established an AAA position on a key hilltop overlooking a strategic valley. There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+
+Objective: Conduct a precision strike on the AAA position to prevent the enemy from denying access to the valley.
+
+Threats: Heavy AAA fire, potential enemy ground forces in the area.
+]]

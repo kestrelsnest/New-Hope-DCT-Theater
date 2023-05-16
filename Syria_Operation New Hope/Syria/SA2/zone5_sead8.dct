@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+regenerate = true
+desc = [[
+Situation: A SA-2 SAM site has been identified in enemy territory, and it is believed to be operational.
+
+Objective: Neutralize the SA-2 SAM site and reduce the enemy's air defense capabilities.
+
+Threats: AAA, MANPADS, other SAM sites.
+]]

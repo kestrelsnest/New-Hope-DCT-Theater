@@ -1,0 +1,13 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy is using a nearby town as a base of operations to launch attacks against friendly forces. 
+We must destroy the enemy presence in the town to deny them a foothold in the area.
+
+Objective: Locate and destroy enemy forces in the town.
+
+Threats: AAA, possible enemy air cover, enemy ground forces.
+]]

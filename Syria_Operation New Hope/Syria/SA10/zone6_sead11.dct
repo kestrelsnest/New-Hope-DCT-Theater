@@ -1,0 +1,15 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 1
+regenerate = true
+spawnalways = true
+desc = [[
+Situation: Our reconnaissance aircraft have spotted an SA-10 SAM Site in the area, and we believe it is targeting friendly naval vessels in the nearby sea. 
+We need to take out the SAM Site to protect our ships.
+
+Objective: Destroy the SA-10 SAM Site.
+
+Threats: The SAM Site is heavily protected by AAA units and is located near a major enemy naval base.
+]]

@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The SA-2 SAM site is located near a strategic asset that is vital to friendly forces.
+
+Objective: Destroy the SA-2 SAM site to secure the strategic asset and reduce the enemy's air defense capabilities in the area.
+
+Threats: AAA, other SAM sites, potential ambushes by ground forces.
+]]

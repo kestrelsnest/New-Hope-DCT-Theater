@@ -1,0 +1,13 @@
+objtype = "oca"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy is using a nearby airbase to launch attacks against friendly forces. 
+We must take out the enemy air assets on the ground to limit their ability to strike at our troops.
+
+Objective: Locate and destroy enemy aircraft and airfield infrastructure.
+
+Threats: AAA, possible enemy air cover, enemy ground forces.
+]]

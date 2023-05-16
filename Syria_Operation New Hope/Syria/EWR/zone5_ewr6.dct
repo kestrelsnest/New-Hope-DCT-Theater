@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+desc = [[
+Situation: Our ground forces are pinned down by enemy fire from SAM Sites in the area. 
+We need to eliminate these sites to enable our forces to advance.
+
+Objective: Locate and destroy all identified EWR SAM Sites in the area to enable our ground forces to advance.
+
+Threats: Unknown, potential AAA and other ground-based defenses.
+]]

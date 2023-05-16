@@ -1,0 +1,13 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 20
+priority = 5
+desc = [[
+Situation: A major enemy command center has been identified and needs to be destroyed. 
+The facility is believed to be heavily guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the command center and disrupt the enemy's ability to coordinate and conduct its military operations.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

@@ -1,0 +1,10 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 20
+ondemand = true
+coalition = 2
+spawnalways = true
+desc = [[
+TEST CSAR MISSION
+]]

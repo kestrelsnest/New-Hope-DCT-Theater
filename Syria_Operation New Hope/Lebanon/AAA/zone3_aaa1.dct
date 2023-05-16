@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: The enemy has established a series of AAA sites along a key coastal region, threatening friendly naval operations in the area.
+
+Objective: Locate and destroy the AAA emplacements along the coast to ensure safe naval operations.
+
+Threats: The AAA sites are expected to be heavily defended, with the possibility of enemy fighter aircraft in the area.
+]]

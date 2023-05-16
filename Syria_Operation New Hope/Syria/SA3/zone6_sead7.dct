@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has established several SA-3 SAM sites in the target area, making it nearly impossible for our aircraft to operate in the airspace.
+
+Objective: Eliminate the SA-3 SAM sites to regain control of the airspace.
+
+Threats: AAA, MANPADS, other SAM sites.
+]]

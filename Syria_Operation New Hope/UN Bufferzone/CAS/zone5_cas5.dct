@@ -1,0 +1,13 @@
+objtype = "frontline"
+intel = 3
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Our outpost has been surrounded by enemy forces and our units are in hiding. 
+The enemy is heavily armed and has superior numbers.
+
+Objective: Conduct a Close Air Support (CAS) mission to eliminate enemy forces and provide support to our units on the ground.
+
+Threats: The enemy has a variety of anti-aircraft artillery (AAA) and other ground-based weapons, including machine guns and rocket launchers. 
+]]

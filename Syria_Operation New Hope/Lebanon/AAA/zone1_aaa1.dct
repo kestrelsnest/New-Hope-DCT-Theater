@@ -1,0 +1,12 @@
+objtype = "shorad"
+intel = 3
+cost = 6
+priority = 50
+ignore = true
+desc = [[
+Situation: Intelligence reports suggest that enemy AAA units are located at the Naqoura Airbase, threatening friendly air operations.
+
+Objective: Neutralize the enemy AAA units to ensure safe air operations.
+
+Threats: AAA, MANPADS, small arms fire.
+]]

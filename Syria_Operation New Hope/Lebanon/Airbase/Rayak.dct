@@ -1,0 +1,13 @@
+
+objtype = "airbase"
+name = "Rayak"
+coalition = 0
+subordinates = {
+}
+players = {
+}
+desc = "Rayak"
+capturable = true
+recoverytype = "land"
+takeofftype = "runway"
+cost = 50

@@ -1,0 +1,18 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: A hostile convoy carrying supplies has been spotted in the UN Buffer Zone.
+
+Objective: Conduct an armed reconnaissance mission to gather intel on the enemy convoy and its destination.
+
+Primary Target: The enemy convoy and its contents.
+
+Secondary Target: Any enemy forces escorting the convoy.
+
+ROE: Weapons Free, engage any enemy forces that pose a threat to the mission or your team.
+
+Threats: The convoy may be heavily defended with infantry, armored vehicles, and air support. Be aware of potential landmines or improvised explosive devices (IEDs) along the convoy route.
+]]

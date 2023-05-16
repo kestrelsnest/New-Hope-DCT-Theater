@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+regenerate = true
+desc = [[
+Situation: Our recon aircraft have identified multiple SA-6 SAM sites in the area, which pose a serious threat to our air operations. 
+We need to neutralize these SAM sites before launching further air strikes.
+
+Objective: Target and destroy the identified SA-6 SAM sites.
+
+Threats: AAA and other SAM sites.
+]]

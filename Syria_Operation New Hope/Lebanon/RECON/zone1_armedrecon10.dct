@@ -1,0 +1,20 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: A large enemy convoy has been spotted moving near our border.
+
+Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy convoy.
+
+Primary Target: Identify and track the movement of the enemy convoy.
+
+Secondary Target: Identify the type of vehicles in the convoy and the number of troops.
+
+ROE: Weapons Free.
+
+Threats: The enemy convoy is heavily guarded and may have anti-aircraft weapons. 
+The enemy may also have set up roadblocks or ambushes to defend the convoy. 
+Be prepared for counterattacks and enemy reinforcements.
+]]

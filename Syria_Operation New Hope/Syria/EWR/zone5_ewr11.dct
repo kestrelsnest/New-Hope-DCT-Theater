@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+desc = [[
+Situation: Our aircraft are coming under heavy fire from enemy SAM Sites in the area, making it difficult to operate. 
+We need to locate and neutralize these threats to regain control of the airspace.
+
+Objective: Locate and destroy all identified EWR SAM Sites in the area to regain control of the airspace.
+
+Threats: Unknown, potential AAA and other ground-based defenses.
+]]

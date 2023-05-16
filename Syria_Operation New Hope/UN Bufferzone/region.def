@@ -1,0 +1,18 @@
+name = "UN Bufferzone"
+priority = 5
+airspace = true
+links = {
+    air    = {"Syria", "Jordan", "Israel"},
+    ground = {"Syria", "Jordan", "Israel"},
+    sea    = {},
+}
+-- limits = {
+-- 	["frontline"] = {
+-- 		["min"] = 4,
+-- 		["max"] = 6,
+-- 	},
+-- 	["specialforces"] = {
+-- 		["min"] = 4,
+-- 		["max"] = 6,
+-- 	},
+-- }

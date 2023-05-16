@@ -1,0 +1,13 @@
+
+objtype = "airbase"
+name = "Wujah Al Hajar"
+coalition = 0
+subordinates = {
+}
+players = {
+}
+desc = "Wujah Al Hajar"
+capturable = true
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25

@@ -1,0 +1,19 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: The enemy has been spotted in the forest near our border, potentially planning an attack.
+
+Objective: Conduct armed reconnaissance of the area to gather intel on enemy activity and report back to command.
+
+Primary Target: Locate and observe enemy movements, including the size and composition of their forces, as well as any equipment or vehicles they may be using.
+
+Secondary Target: Identify any potential defensive positions or obstacles that the enemy may be setting up.
+
+ROE: Weapons Free. Engage any enemy targets that pose a threat to your team or friendly forces in the area.
+
+Threats: The enemy is likely heavily armed and prepared for an attack, so be cautious of potential ambushes or traps. 
+The forest terrain may also present challenges for navigation and communication, so be prepared to adapt to changing conditions.
+]]

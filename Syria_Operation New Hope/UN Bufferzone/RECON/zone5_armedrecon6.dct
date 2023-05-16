@@ -1,0 +1,14 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Intelligence reports indicate that enemy artillery units have been spotted near the border, on the other side of the lake. 
+The artillery is believed to be capable of hitting our forward positions and causing significant damage.
+
+Objective: Conduct an armed reconnaissance mission to locate the enemy artillery and assess the threat it poses to our forces.
+
+Threats: AAA and other enemy ground defenses may be in place to protect the artillery units. 
+Additionally, the artillery may be supported by ground troops, who could pose a threat to the reconnaissance aircraft.
+]]

@@ -1,0 +1,12 @@
+objtype = "logistics"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: Enemy forces have taken up a defensive position at a strategic crossroads, blocking our ground forces from advancing.
+
+Objective: Conduct a BAI mission to destroy the enemy position and clear the way for our ground forces.
+
+Threats: AAA, MANPADS, and ground-based threats.
+]]

@@ -1,0 +1,13 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 20
+priority = 5
+desc = [[
+Situation: A critical enemy communications facility has been identified and needs to be destroyed. 
+The facility is located in a remote area, but is expected to be heavily guarded.
+
+Objective: The objective of this mission is to destroy the communications facility and disrupt the enemy's ability to communicate and coordinate its military operations.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

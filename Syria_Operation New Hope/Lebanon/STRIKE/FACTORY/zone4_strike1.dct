@@ -1,0 +1,13 @@
+objtype = "factory"
+intel = 4
+coalition = 1
+cost = 20
+priority = 6
+desc = [[
+Situation: A large enemy industrial complex has been identified as a critical target. 
+The complex is believed to be heavily guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the industrial complex and disrupt the enemy's ability to produce critical materials and equipment.
+
+Threats: AAA and other enemy ground forces are expected in the area.
+]]

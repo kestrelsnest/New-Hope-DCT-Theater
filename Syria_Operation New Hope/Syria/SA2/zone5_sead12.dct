@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+regenerate = true
+desc = [[
+Situation: A SA-2 SAM site is suspected to be located near a civilian population center, making it a high-risk target.
+
+Objective: Eliminate the SA-2 SAM site while minimizing civilian casualties.
+
+Threats: AAA, other SAM sites, potential collateral damage.
+]]

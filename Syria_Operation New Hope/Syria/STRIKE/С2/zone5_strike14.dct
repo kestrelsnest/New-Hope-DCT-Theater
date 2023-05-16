@@ -1,0 +1,14 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 25
+coalition = 1 
+priority = 10
+desc = [[
+Situation: The enemy has established a Command Center at Hama Airport. 
+The Command Center is heavily guarded by enemy troops and anti-aircraft defenses.
+
+Objective: The objective of this mission is to destroy the Command Center and disrupt the enemy's ability to coordinate their military operations.
+
+Threats: The Command Center is located at Hama Airport and heavily guarded by enemy troops and anti-aircraft defenses.
+]]

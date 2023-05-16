@@ -1,0 +1,19 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 20
+priority = 5
+desc = [[
+Situation: The enemy has taken control of a TV station and is broadcasting propaganda messages to the surrounding area.
+
+Objective: Our objective is to neutralize the enemy presence at the TV station and prevent them from continuing their propaganda broadcasts.
+
+Primary Target: The TV station building itself is the primary target. We need to neutralize any enemy forces inside and secure the building.
+
+Secondary Target: Any vehicles or equipment used by the enemy to facilitate their broadcast operations should also be targeted and neutralized if possible.
+
+ROE: Weapons Free. The enemy is actively spreading propaganda and may pose a threat to nearby civilians or our own forces if allowed to continue.
+
+Threats: The enemy may have armed guards stationed at the TV station and may also have other forces nearby that could respond to an attack. 
+The surrounding area may also be heavily populated, making it important to avoid collateral damage.
+]]

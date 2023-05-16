@@ -1,0 +1,14 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have entered the UN Buffer Zone and are potentially preparing for an attack. 
+The exact size and composition of the force is unknown, but it is believed to include both infantry and armored units. 
+
+Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy forces in the UN Buffer Zone. 
+Identify their location, size, and composition. 
+
+Threats: The enemy forces are likely to have a range of anti-aircraft and anti-tank weapons, including man-portable air defense systems (MANPADS) and rocket-propelled grenades (RPGs).
+]]

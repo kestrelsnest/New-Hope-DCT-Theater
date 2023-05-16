@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: A high-value target has been located in the target area, but is surrounded by SA-3 SAM sites.
+
+Objective: Neutralize the SA-3 SAM sites to allow our ground troops to capture or eliminate the target.
+
+Threats: AAA, MANPADS, other SAM sites.
+]]

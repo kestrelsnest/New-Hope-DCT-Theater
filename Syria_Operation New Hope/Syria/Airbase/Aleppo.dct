@@ -1,0 +1,11 @@
+
+objtype = "airbase"
+name = "Aleppo"
+coalition = 1
+subordinates = {
+ 
+}
+desc = "Aleppo"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 22

@@ -1,0 +1,13 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has established a well-defended SA-2 SAM site on a key supply route.
+
+Objective: Destroy the SA-2 SAM site to disrupt the enemy's supply chain.
+
+Threats: AAA, other SAM sites, potential ambushes by ground forces.
+]]

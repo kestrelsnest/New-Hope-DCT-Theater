@@ -1,0 +1,21 @@
+time = 0  -- infinite(this is in seconds btw)
+blue = {
+	flag            = 45,
+	tickets         = 500,
+	player_cost     = 1,
+	modifier_reward = 1,
+	modifier_loss   = 1,
+}
+
+neutral = {
+	flag    = 20,
+	tickets = 0,
+}
+
+red = {
+	flag       = 60,
+	tickets    = 1500,
+	player_cost     = 1,
+	modifier_reward = 1,
+	modifier_loss   = 1,
+}

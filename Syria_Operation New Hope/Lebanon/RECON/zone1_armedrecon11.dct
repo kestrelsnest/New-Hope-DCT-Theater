@@ -1,0 +1,19 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have captured our airport and established a strong presence in the area.
+
+Objective: Conduct armed recon to gather intelligence on enemy forces and identify potential weak points in their defenses.
+
+Primary Target: Locate and identify enemy troop movements and positions within the airport complex.
+
+Secondary Target: Observe and report any suspicious activities, such as the movement of heavy equipment or the construction of fortifications.
+
+ROE: Weapons free, engage any hostile targets on sight.
+
+Threats: The enemy is likely to have a well-trained and heavily-armed force in the area. 
+Anti-aircraft guns and surface-to-air missiles may be present, so caution is advised when flying over the airport.
+]]

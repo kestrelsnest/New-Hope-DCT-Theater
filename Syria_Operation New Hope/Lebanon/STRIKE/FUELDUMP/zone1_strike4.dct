@@ -1,0 +1,19 @@
+objtype = "fueldump"
+intel = 4
+coalition = 1
+cost = 20
+priority = 9
+desc = [[
+Situation: Enemy fuel tanks have been spotted near small port and are believed to be a key source of the enemy's fuel supply.
+
+Objective: Conduct a STRIKE mission to destroy the enemy fuel tanks and disrupt their fuel supply.
+
+Primary Target: The primary target is the enemy fuel tanks. These should be destroyed with precision-guided munitions to ensure they are completely neutralized.
+
+Secondary Target: If possible, any enemy vehicles or equipment in the vicinity of the fuel tanks should also be destroyed.
+
+ROE: Weapons Free. The enemy has been identified as a legitimate target, and all available firepower can be employed to destroy the fuel tanks and any accompanying enemy equipment.
+
+Threats: The main threat is enemy air defenses, including anti-aircraft guns and surface-to-air missiles. 
+These will need to be neutralized before the STRIKE mission can proceed. 
+]]

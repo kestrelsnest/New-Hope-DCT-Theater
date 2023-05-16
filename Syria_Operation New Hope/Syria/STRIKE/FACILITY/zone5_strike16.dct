@@ -1,0 +1,11 @@
+objtype = "facility"
+intel = 4
+coalition = 1
+cost = 20
+coalition = 1 
+priority = 7
+desc = [[
+Objective: Neutralize the power plant facility.
+
+Primary Target: The main building of the power plant facility.
+]]

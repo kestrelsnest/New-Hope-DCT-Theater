@@ -1,0 +1,19 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: A hostile enemy convoy has been spotted in the UN Buffer Zone, posing a potential threat to international peace and security.
+
+Objective: Conduct armed reconnaissance of the enemy convoy and gather information on their intentions and capabilities.
+
+Primary Target: The lead vehicle of the enemy convoy.
+
+Secondary Target: Any high-value targets identified during the mission.
+
+ROE: Weapons Free. Engage any targets that pose a threat to your team or the mission.
+
+Threats: The enemy convoy is likely to be heavily armed and defended, with potential threats including anti-aircraft weapons, ground vehicles, and hostile ground troops. 
+Remain alert and use caution when approaching the convoy.
+]]

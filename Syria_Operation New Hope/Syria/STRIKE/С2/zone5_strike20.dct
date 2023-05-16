@@ -1,0 +1,14 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 50
+coalition = 1 
+priority = 10
+desc = [[
+Situation: Intelligence reports indicate the enemy's command center is located in a heavily fortified compound near Palmyra airport. 
+The compound is protected by anti-aircraft guns, radar, and other defenses.
+
+Objective: The objective of this mission is to destroy the enemy's command center and disrupt their ability to coordinate and control their forces.
+
+Threats: AAA, MANPADS, and other ground defenses are expected in the area.
+]]

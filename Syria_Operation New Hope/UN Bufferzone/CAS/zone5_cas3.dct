@@ -1,0 +1,21 @@
+objtype = "frontline"
+intel = 3
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Our outpost on the UN Buffer Zone Border is under heavy enemy attack. 
+Enemy forces have managed to breach our defenses and are attempting to overrun the position.
+
+Objective: Provide close air support to our ground forces at the outpost and help repel the enemy attack.
+
+Primary Target: Enemy infantry and armor positions that are threatening our forces.
+
+Secondary Target: Enemy reinforcements that may be approaching the area.
+
+ROE: Weapons Free on all enemy targets that are directly threatening our ground forces. 
+Use precision-guided munitions when possible to minimize collateral damage.
+
+Threats: The enemy has deployed anti-aircraft artillery and surface-to-air missiles in the area, which may pose a threat to our aircraft. 
+The presence of civilian populations in the area also requires careful consideration when selecting targets.
+]]

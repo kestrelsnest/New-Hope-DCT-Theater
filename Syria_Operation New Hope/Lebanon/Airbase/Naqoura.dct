@@ -1,0 +1,11 @@
+
+objtype = "airbase"
+name = "Naqoura"
+coalition = 0
+subordinates = {
+}
+desc = "Naqoura"
+capturable = true
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25

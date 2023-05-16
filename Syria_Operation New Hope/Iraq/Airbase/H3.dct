@@ -1,0 +1,13 @@
+
+objtype = "airbase"
+name = "H3"
+coalition = 1
+subordinates = {
+    "red sam ewr h3",
+}
+players = {
+}
+desc = "H3"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 25

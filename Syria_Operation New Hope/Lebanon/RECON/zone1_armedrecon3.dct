@@ -1,0 +1,17 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+desc = [[
+Situation: A hostile enemy patrol has been detected near our border.
+
+Objective: The objective of this mission is to gather intelligence on the enemy patrol and their activities.
+
+Primary Target: Observe and track the movements of the enemy patrol.
+
+Secondary Target: Identify any weapons or equipment being carried by the enemy patrol.
+
+ROE: Use of force is authorized if necessary to protect the reconnaissance team.
+
+Threats: The enemy patrol is heavily armed and may call for reinforcements if they detect our reconnaissance team.
+]]

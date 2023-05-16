@@ -1,0 +1,12 @@
+
+objtype = "airbase"
+name = "Damascus"
+coalition = 1
+subordinates = {
+    "syria_airbase_defence",
+}
+desc = "Damascus"
+recoverytype = "land"
+takeofftype = "runway"
+cost = 22
+spawnalways = true

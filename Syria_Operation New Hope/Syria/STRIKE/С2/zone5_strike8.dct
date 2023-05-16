@@ -1,0 +1,15 @@
+objtype = "c2"
+intel = 4
+coalition = 1
+cost = 25
+coalition = 1 
+priority = 10
+desc = [[
+Situation: An enemy communication tower has been identified as a key target for destruction. 
+The tower is believed to be heavily guarded and protected by enemy forces.
+
+Objective: The objective of this mission is to destroy the communication tower and disrupt the enemy's ability to communicate and coordinate their actions.
+
+Threats: The tower is heavily defended, and enemy ground forces are expected in the area. 
+Anti-aircraft artillery (AAA) and surface-to-air missiles (SAMs) may also be present to protect the tower.
+]]

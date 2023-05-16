@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 25
+priority = 10
+desc = [[
+Situation: Our forward air controllers have identified an EWR SAM Site located near our area of operations.
+We need to eliminate this threat to enable our aircraft to operate safely in the area.
+
+Objective: Neutralize the EWR SAM Site to enable safe air operations in the area.
+
+Threats: Unknown, potential AAA and other ground-based defenses.
+]]

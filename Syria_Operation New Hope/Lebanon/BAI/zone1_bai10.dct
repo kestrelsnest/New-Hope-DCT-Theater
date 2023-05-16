@@ -1,0 +1,20 @@
+objtype = "checkpoint"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+desc = [[
+Situation: The enemy has established a road outpost in a critical location, disrupting our supply lines and threatening our forces.
+
+Objective: Neutralize the enemy road outpost and secure the area.
+
+Primary Target: Enemy vehicles and fortifications at the road outpost.
+
+Secondary Target: Any enemy reinforcements or patrols in the surrounding area.
+
+ROE: Weapons free.
+
+Threats: The enemy is heavily armed and fortified, with a variety of weapons including heavy machine guns, RPGs, and possibly anti-aircraft weapons. 
+They may also have mines or other booby traps in the surrounding area. 
+The terrain around the outpost is rugged and difficult to traverse.
+]]

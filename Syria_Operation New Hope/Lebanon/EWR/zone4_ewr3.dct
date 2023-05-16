@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 20
+priority = 5
+desc = [[
+Situation: A key EWR has been detected in an enemy-held city, which is a vital transportation hub for their troops and supplies. 
+The EWR is providing early warning of our aircraft movements and enabling enemy air defenses to engage us.
+
+Objective: The objective is to locate and destroy the EWR without causing significant damage to the surrounding city infrastructure.
+
+Threats: Enemy air defenses, including SAM sites, and potential fighter aircraft.
+]]

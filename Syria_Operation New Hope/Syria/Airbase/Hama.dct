@@ -1,0 +1,10 @@
+objtype = "airbase"
+name = "Hama"
+desc = "Hama"
+coalition = 1
+subordinates = {
+ 
+}
+recoverytype = "land"
+takeofftype = "runway"
+cost = 22

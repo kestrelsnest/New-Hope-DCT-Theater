@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 15
+priority = 10
+regenerate = true
+desc = [[
+Situation: The enemy has fortified their position with multiple SA-2 SAM sites, making it difficult for our air assets to operate in the area. 
+Intel has located one such site on the outskirts of the city, and we need to eliminate it to regain control of the airspace.
+
+Objective: Destroy the SA-2 SAM site on the outskirts of the city.
+
+Threats: AAA, other SAM sites.
+]]

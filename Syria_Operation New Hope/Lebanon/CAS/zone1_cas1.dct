@@ -1,0 +1,17 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Friendlies are holding a remote base on the airfield. 
+The base is under attack by enemy forces, and the situation is becoming critical. 
+The enemy has heavy armor units and is closing in on the base.
+
+Objective: Provide close air support to the friendly forces at the base. Destroy any enemy armor units that pose a threat to the base.
+Protect the friendly forces and help them hold their position.
+Only engage confirmed hostile targets. Do not engage any structures or vehicles marked as friendly.
+
+Threats: Enemy armored units, anti-aircraft weapons.
+]]

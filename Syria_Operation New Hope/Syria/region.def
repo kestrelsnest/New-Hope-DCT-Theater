@@ -1,0 +1,38 @@
+name = "Syria"
+priority = 20
+airspace = true
+links = {
+    air    = {"Israel", "Jordan", "Iraq", "Lebanon"},
+    ground = {"Israel", "Jordan", "Iraq", "Lebanon"},
+    sea    = {"Lebanon"},
+}
+-- limits = {
+-- 	["sam"] = { 
+-- 		["min"] = 16,
+-- 		["max"] = 20,
+-- 	},
+-- 	["ewr"] = {
+-- 		["min"] = 8,
+-- 		["max"] = 10,
+-- 	},	
+-- 	["factory"] = {
+-- 		["min"] = 2,
+-- 		["max"] = 4,
+-- 	},	
+-- 	["c2"] = {
+-- 		["min"] = 2,
+-- 		["max"] = 4,
+-- 	},
+-- 	["facility"] = {
+-- 		["min"] = 2,
+-- 		["max"] = 4,
+-- 	},
+-- 	["ammodump"] = {
+-- 		["min"] = 2,
+-- 		["max"] = 4,
+-- 	},
+-- 	["fueldump"] = {
+-- 		["min"] = 2,
+-- 		["max"] = 4,
+-- 	},
+-- }

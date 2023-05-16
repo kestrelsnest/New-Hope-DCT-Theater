@@ -1,0 +1,14 @@
+objtype = "sam"
+intel = 4
+coalition = 1
+cost = 15
+priority = 6
+regenerate = true
+desc = [[
+Situation: Our aircraft have been coming under attack from an SA-6 SAM site in the region. 
+We need to take out this site to ensure the safety of our pilots.
+
+Objective: Target and destroy the SA-6 SAM site that is targeting our aircraft.
+
+Threats: AAA and other SAM sites.
+]]

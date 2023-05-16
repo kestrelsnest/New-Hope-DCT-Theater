@@ -1,0 +1,15 @@
+objtype = "specialforces"
+intel = 2
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Enemy forces have been spotted gathering in a small village located just a few miles away from our airbase. 
+Intelligence reports indicate that they are preparing to launch an attack on our base, and could be equipped with both ground and air-based weapons.
+
+Objective: Your objective is to conduct an armed reconnaissance mission in the area, gathering intelligence on enemy troop movements, equipment and positions. 
+You are also authorized to engage any enemy forces that you encounter during the mission.
+
+Threats: The area is believed to be heavily defended, with numerous anti-aircraft weapons and other threats. 
+You can expect to face heavy resistance from both ground and air-based enemy forces, so you will need to exercise caution and be prepared for any eventuality.
+]]

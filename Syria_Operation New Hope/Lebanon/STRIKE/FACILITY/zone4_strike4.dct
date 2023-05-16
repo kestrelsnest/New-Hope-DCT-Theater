@@ -1,0 +1,21 @@
+objtype = "facility"
+intel = 4
+coalition = 1
+cost = 20
+coalition = 1 
+priority = 7
+desc = [[
+Situation: The enemy has established a research facility in a remote location, suspected of developing advanced weaponry.
+
+Objective: Neutralize the research facility and destroy any research materials or equipment.
+
+Primary Target: The main building of the research facility, where the majority of the research and development is being conducted.
+
+Secondary Target: Any satellite buildings or structures that may be involved in the development of the weaponry.
+
+ROE: Weapons Free
+
+Threats: The enemy forces at the facility are heavily armed and may have access to advanced weaponry. 
+There may also be traps or explosive devices set up around the facility. 
+Additionally, the facility may be protected by anti-aircraft defenses, so caution must be exercised during any aerial operations.
+]]

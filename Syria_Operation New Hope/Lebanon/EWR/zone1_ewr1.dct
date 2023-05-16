@@ -1,0 +1,13 @@
+objtype = "ewr"
+intel = 4
+coalition = 1
+cost = 20
+priority = 10
+desc = [[
+Situation: Our intelligence has confirmed the presence of an EWR in enemy territory that is currently tracking our aircraft movements. 
+It is located in a mountainous region with significant air defense capabilities, including multiple SAM sites.
+
+Objective: The objective is to eliminate the EWR without getting shot down by enemy air defenses.
+
+Threats: Enemy air defenses, including SAM sites and fighter aircraft.
+]]

@@ -1,0 +1,11 @@
+objtype = "sea"
+intel = 3
+cost = 15
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Our intelligence has detected enemy warships patrolling the coastal waters, posing a threat to our naval and ground forces.
+
+Objective: The objective of this mission is to neutralize the enemy warships and prevent them from interfering with our operations.
+
+Threats: The enemy warships are the primary threat in the area.]]

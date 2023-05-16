@@ -1,0 +1,19 @@
+objtype = "frontline"
+intel = 3
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Our outpost on the UN Buffer Zone Border is under attack by enemy forces.
+
+Objective: Provide close air support (CAS) to defend the outpost and eliminate enemy forces.
+
+Primary Target: Enemy troops and vehicles attacking the outpost.
+
+Secondary Target: Enemy reinforcements arriving in the area.
+
+ROE: Weapons Free for confirmed hostile targets.
+
+Threats: Enemy anti-aircraft artillery (AAA) and surface-to-air missiles (SAMs) in the area. 
+Possible air superiority of the enemy forces.
+]]

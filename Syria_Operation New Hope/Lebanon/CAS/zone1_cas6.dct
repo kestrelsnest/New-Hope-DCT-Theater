@@ -1,0 +1,18 @@
+objtype = "frontline"
+intel = 3
+coalition = 1
+cost = 5
+ondemand = true
+coalition = 1
+desc = [[
+Situation: Friendlies are holding a strategic position in a the area. 
+They are surrounded by enemy forces, who are closing in on the position. 
+The friendly forces are low on supplies and ammunition, and need immediate support.
+
+Objective: Provide close air support to the friendly forces at the position. 
+Suppress enemy forces and prevent them from overrunning the friendly position. 
+Provide cover for friendly forces to evacuate any wounded or critically low on supplies.
+Only engage confirmed hostile targets. 
+
+Threats: Enemy ground forces, anti-aircraft weapons.
+]]
