@@ -4,11 +4,11 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Our intelligence sources have identified the location of the enemy general who is responsible for several attacks on our forces in the region. 
-He is on the move in a car. Last know position - Grid YC30 moving northwest from the training camp/
+Ситуація: наші джерела розвідки визначили місцезнаходження ворожого генерала, відповідального за кілька атак на наші сили в регіоні.
+Він знаходиться в автомобілі який рухається. Остання відома позиція - Grid YC30 рухається на північний захід від тренувального табору/
 
-Objective: Eliminate the enemy general to weaken the enemy's command structure and improve our position in the region.
+Мета: знищити ворожого генерала, щоб послабити командну структуру противника та покращити нашу позицію в регіоні.
 
-Threats: The area is also heavily defended with various anti-aircraft weapons, so SEAD operations are required prior to the mission.
+Загрози: територія також посилено захищена різною протиповітряною зброєю, тому перед місією необхідні операції SEAD.
 ]]
 --The general's vehicle will be guarded by a small convoy, consisting of several armed vehicles. 

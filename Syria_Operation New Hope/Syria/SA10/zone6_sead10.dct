@@ -6,10 +6,10 @@ priority = 1
 regenerate = true
 spawnalways = true
 desc = [[
-Situation: An SA-10 SAM Site has been detected in the area, threatening our air superiority over the region. 
-We need to neutralize the threat to allow our aircraft to operate freely.
+Ситуація: у цьому районі було виявлено ЗРК SA-10, що загрожує нашій перевазі в повітрі над регіоном.
+Нам потрібно нейтралізувати загрозу, щоб наші літаки могли вільно працювати.
 
-Objective: Destroy the SA-10 SAM Site.
+Мета: знищити пункт ЗРК SA-10.
 
-Threats: The SA-10 battery is protected by multiple other SAM sites and AAA units, and the surrounding area is heavily defended.
+Загрози: батарея SA-10 захищена кількома іншими об'єктами ЗРК і блоками AAA, а територія навколо посилено захищена.
 ]]

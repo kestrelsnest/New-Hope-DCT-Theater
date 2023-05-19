@@ -4,17 +4,17 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has established a road outpost in a critical location, disrupting our supply lines and threatening our forces.
+Ситуація: ворог створив дорожній форпост у критичному місці, порушуючи наші лінії постачання та загрожуючи нашим силам.
 
-Objective: Neutralize the enemy road outpost and secure the area.
+Мета: нейтралізувати дорожній форпост ворога та охороняти територію.
 
-Primary Target: Enemy vehicles and fortifications at the road outpost.
+Основна ціль: ворожі автомобілі та укріплення на форпості.
 
-Secondary Target: Any enemy reinforcements or patrols in the surrounding area.
+Додаткова ціль: будь-яке вороже підкріплення або патрулі в околицях.
 
-ROE: Weapons free.
+ROE: Застосування зброї дозволено.
 
-Threats: The enemy is heavily armed and fortified, with a variety of weapons including heavy machine guns, RPGs, and possibly anti-aircraft weapons. 
-They may also have mines or other booby traps in the surrounding area. 
-The terrain around the outpost is rugged and difficult to traverse.
+Загрози: ворог добре озброєний і укріплений, має різноманітну зброю, включаючи важкі кулемети, РПГ, та можливо зенітну зброю.
+Околиці можуть бути заміновані, або містити інші пастки для союзних наземних сил.
+Місцевість навколо форпосту пересічена і важкопрохідна.
 ]]

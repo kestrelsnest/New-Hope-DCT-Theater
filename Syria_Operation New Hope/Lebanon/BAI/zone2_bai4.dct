@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has established a staging area for reinforcements and supplies in a remote location. 
-This facility must be destroyed before the enemy can use it to bolster their forces.
+Ситуація: ворог створив плацдарм для підкріплення та постачання у віддаленому місці.
+Цей об’єкт має бути знищено, перш ніж ворог зможе використовувати його для посилення своїх сил.
 
-Objective: Locate and destroy the enemy staging facility.
+Завдання: знайти та знищити базу противника.
 
-Threats: AAA, possible enemy air cover, enemy ground forces.
+Загрози: ППО, можливе повітряне прикриття противника, наземні сили противника.
 ]]

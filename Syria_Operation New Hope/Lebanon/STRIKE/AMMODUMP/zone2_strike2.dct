@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 8
 desc = [[
-Situation: A key enemy military facility has been identified and needs to be destroyed.
-The facility is located in a remote area, but is expected to be heavily guarded.
+Ситуація: виявлено ключовий військовий об’єкт противника, який необхідно знищити.
+Об’єкт розташований у віддаленій місцевості, але очікується посилена охорона.
 
-Objective: The objective of this mission is to destroy the facility and disrupt the enemy's ability to conduct operations in the region.
+Мета: мета цієї місії — знищити об’єкт і порушити здатність ворога проводити операції в регіоні.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

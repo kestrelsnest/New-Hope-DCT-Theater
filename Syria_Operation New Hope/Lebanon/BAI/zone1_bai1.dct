@@ -4,9 +4,9 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has been spotted deploying forces and setting up positions along a key road leading to a friendly held objective. 
-We must interdict their movements and degrade their combat effectiveness.
+Ситуація: помічено ворога, який розгортає сили та облаштовує позиції вздовж ключової дороги, що веде до союзного об’єкта.
+Ми повинні перешкоджати їхнім пересуванням і знижувати їхню боєздатність.
 
-Objective: Locate and attack enemy forces moving along the road and in the surrounding area.
-Threats: AAA, enemy ground forces, possible enemy air cover.
+Мета: знайти та атакувати ворожі сили, що рухаються по дорозі та в околицях.
+Загрози: ППО, наземні сили противника, можливе повітряне прикриття противника.
 ]]

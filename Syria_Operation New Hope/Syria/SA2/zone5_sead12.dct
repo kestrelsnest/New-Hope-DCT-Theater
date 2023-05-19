@@ -5,9 +5,9 @@ cost = 25
 priority = 10
 regenerate = true
 desc = [[
-Situation: A SA-2 SAM site is suspected to be located near a civilian population center, making it a high-risk target.
+Ситуація: підозрюється, що місце розташування ЗРК SA-2 розташоване поблизу цивільного населеного пункту, що робить його ціллю високого ризику.
 
-Objective: Eliminate the SA-2 SAM site while minimizing civilian casualties.
+Мета: ліквідувати місце розташування ЗРК SA-2, мінімізуючи втрати серед цивільного населення.
 
-Threats: AAA, other SAM sites, potential collateral damage.
+Загрози: AAA, інші пункти SAM, потенційні супутні збитки.
 ]]

@@ -5,10 +5,10 @@ cost = 50
 coalition = 1 
 priority = 10
 desc = [[
-Situation: A high classified factory, believed to be producing chemical weapons, has been identified as a key target for destruction. 
-The facility is believed to be heavily guarded and protected by enemy forces.
+Ситуація: фабрика з високою секретністю, яка ймовірно виробляє хімічну зброю, була визначена як головна ціль для знищення.
+Вважається, що об’єкт посилено охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy or critically damage all three main factory buildings to disrupt the enemy's ability to produce chemical weapons.
+Мета: мета цієї місії — знищити або серйозно пошкодити всі три головні заводські будівлі, щоб порушити здатність ворога виробляти хімічну зброю.
 
-Threats: AAA, SAMs and other enemy ground forces are expected in the area.
+Загрози: в цьому районі очікуються ЗРК, ЗРК та інші наземні сили противника.
 ]]

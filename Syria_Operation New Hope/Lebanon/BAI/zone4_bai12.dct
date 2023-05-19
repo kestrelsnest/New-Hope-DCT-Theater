@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have been spotted holding a strategic location. 
-Our forces are currently unable to engage due to the risk of collateral damage.
+Ситуація: помічено ворожі сили, які укріпились на стратегічно важливій позиції.
+Наші сили наразі не можуть почати бойові дії по їх нейтралізації, через ризик супутнього збитку.
 
-Objective: Conduct a precision strike on the enemy forces to neutralize their ability to engage our ground forces.
+Мета: нанести точний удар по силах противника, щоб нейтралізувати їх здатність до бою з нашими наземними силами.
 
-Threats: AAA and ground-based threats.
+Загрози: AAA та наземні загрози.
 ]]

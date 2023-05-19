@@ -5,7 +5,7 @@ cost = 20
 coalition = 1 
 priority = 7
 desc = [[
-Objective: Neutralize the power plant facility.
+Завдання: нейтралізувати електростанцію.
 
-Primary Target: The main building of the power plant facility.
+Основна ціль: головний корпус електростанції.
 ]]

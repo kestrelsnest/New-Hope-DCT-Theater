@@ -4,17 +4,17 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has established a road outpost on a major supply route, disrupting our resupply efforts to our forward operating bases.
+Ситуація: ворог створив дорожній форпост на головному маршруті постачання, заважаючи нашим зусиллям поповнювати постачання на наші передові оперативні бази.
 
-Objective: Conduct a BAI mission to destroy the enemy road outpost and prevent their disruption of our supply lines.
+Мета: виконати місію BAI, щоб знищити ворожий дорожній форпост і запобігти перериванню наших ліній постачання.
 
-Primary Target: The enemy road outpost and its defenses, including any vehicles, personnel, and fortifications.
+Основна ціль: ворожий дорожній форпост і його оборонні споруди, включаючи будь-які транспортні засоби, особовий склад і укріплення.
 
-Secondary Target: Any enemy vehicles or personnel attempting to reinforce or resupply the road outpost.
+Другорядна ціль: будь-які ворожі транспортні засоби або особовий склад, які намагаються підсилити або поповнити дорожній форпост.
 
-ROE: Weapons Free on all enemy targets. Exercise caution to avoid collateral damage to nearby civilian structures and vehicles.
+ROE: Вогонь дозволено по всіх ворожих цілях. Будьте обережні, щоб уникнути супутнього збитку цивільним спорудам і транспортним засобам поблизу.
 
-Threats: The enemy may have anti-aircraft weapons and other air defense systems in the vicinity of the road outpost. 
-There may also be enemy patrols or ambushes in the surrounding area. 
-Be prepared for hostile fire and take appropriate evasive action as necessary.
+Загрози: в районі дорожнього форпосту можлива наявність зенітного озброєння та інші засоби ППО.
+В околицях також можуть бути ворожі патрулі або засідки.
+Будьте готові до ворожого вогню та за необхідності вживайте відповідних заходів.
 ]]

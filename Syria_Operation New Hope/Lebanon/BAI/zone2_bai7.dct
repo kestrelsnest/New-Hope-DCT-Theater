@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has set up a checkpoint on a key road, limiting friendly movement and resupply. 
-The checkpoint must be neutralized to allow friendly forces to continue their advance.
+Ситуація: ворог встановив блокпост на ключовій дорозі, обмежуючи пересування та поповнення озброєння.
+Блокпост необхідно нейтралізувати, щоб дружні сили могли продовжити наступ.
 
-Objective: Locate and destroy the enemy checkpoint and any supporting forces.
+Мета: знайти та знищити блокпост противника та будь-які допоміжні сили.
 
-Threats: AAA, enemy ground forces.
+Загрози: ППО, наземні сили противника.
 ]]

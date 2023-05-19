@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy is using a nearby town as a base of operations to launch attacks against friendly forces. 
-We must destroy the enemy presence in the town to deny them a foothold in the area.
+Ситуація: ворог використовує сусіднє місто як базу для здійснення атак на союзні сили.
+Ми повинні знищити сукупність ворожих сил в місті, щоб позбавити його плацдарму в цьому районі.
 
-Objective: Locate and destroy enemy forces in the town.
+Мета: знайти та знищити сили противника в місті.
 
-Threats: AAA, possible enemy air cover, enemy ground forces.
+Загрози: ППО, можливе повітряне прикриття противника, наземні сили противника.
 ]]

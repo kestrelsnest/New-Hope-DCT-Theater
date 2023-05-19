@@ -5,10 +5,10 @@ cost = 25
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has deployed several SA-6 SAM sites in the area, which are hindering our ability to conduct air operations in the region. 
-We need to take out these SAM sites to establish air superiority.
+Ситуація: ворог розгорнув у цьому районі кілька ЗРК SA-6, які перешкоджають нашій здатності проводити повітряні операції в регіоні.
+Нам потрібно знищити ці сайти ЗРК, щоб перехопити перевагу в повітрі.
 
-Objective: Target and destroy the identified SA-6 SAM sites.
+Мета: знищити ідентифіковані пункти ЗРК SA-6.
 
-Threats: AAA and other SAM sites.
+Загрози: AAA та інші пункти SAM.
 ]]

@@ -5,10 +5,9 @@ cost = 20
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has established a major air base in the target area, which is being used to launch offensive air operations against friendly forces. 
-The air base is heavily defended by both air defense systems and ground troops.
+Ситуація: ворог має велику авіабазу в цільовому районі, яка використовується для проведення наступальних операцій з повітря.
 
-Objective: The objective is to destroy the enemy air base and eliminate their ability to conduct offensive air operations in the region.
+Мета: знищити авіабазу противника та позбавити його можливості вести наступальну діяльність в регіоні.
 
-Threats: Air defense systems, ground troops, and enemy aircraft.
+Загрози: системи ППО, наземні війська та авіація противника.
 ]]

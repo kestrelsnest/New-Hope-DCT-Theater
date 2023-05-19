@@ -4,17 +4,17 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: A large enemy convoy has been spotted moving near our border.
+Ситуація: Помічено великий ворожий конвой, що рухається біля нашого кордону.
 
-Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy convoy.
+Мета: провести збройну розвідку для збору розвідувальних даних про ворожий конвой.
 
-Primary Target: Identify and track the movement of the enemy convoy.
+Основна ціль: ідентифікуйте та відстежуйте рух ворожого конвою.
 
-Secondary Target: Identify the type of vehicles in the convoy and the number of troops.
+Другорядна ціль: визначте тип транспортних засобів у колоні та кількість військ.
 
-ROE: Weapons Free.
+ROE: Вільне використання зброї.
 
-Threats: The enemy convoy is heavily guarded and may have anti-aircraft weapons. 
-The enemy may also have set up roadblocks or ambushes to defend the convoy. 
-Be prepared for counterattacks and enemy reinforcements.
+Загрози: Ворожий конвой сильно охороняється і може мати протиповітряну зброю.
+Ворог також може встановити блокпости чи засідки для захисту конвою.
+Будьте готові до контратак та підкріплень ворога.
 ]]

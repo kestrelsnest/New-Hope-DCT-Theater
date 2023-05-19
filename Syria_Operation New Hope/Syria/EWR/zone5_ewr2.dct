@@ -4,10 +4,10 @@ coalition = 1
 cost = 25
 priority = 10
 desc = [[
-Situation: Our forward air controllers have identified an EWR SAM Site located near our area of operations.
-We need to eliminate this threat to enable our aircraft to operate safely in the area.
+Ситуація: наші передові авіадиспетчери виявили місце ЗРК EWR, розташоване поблизу нашої зони операцій.
+Нам потрібно усунути цю загрозу, щоб наші літаки могли безпечно працювати в цьому районі.
 
-Objective: Neutralize the EWR SAM Site to enable safe air operations in the area.
+Мета: нейтралізувати місце ЗРК EWR для забезпечення безпечних повітряних операцій у цьому районі.
 
-Threats: Unknown, potential AAA and other ground-based defenses.
+Загрози: невідомі, потенційні протиракетні та інші засоби наземного захисту.
 ]]

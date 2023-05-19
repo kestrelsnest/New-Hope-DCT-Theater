@@ -3,15 +3,15 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: A hostile enemy patrol has been detected near our border.
+Ситуація: Поблизу нашого кордону виявлено ворожий патруль.
 
-Objective: The objective of this mission is to gather intelligence on the enemy patrol and their activities.
+Мета: мета цієї місії — зібрати розвідувальні дані про ворожий патруль та його діяльність.
 
-Primary Target: Observe and track the movements of the enemy patrol.
+Основна ціль: спостерігайте та відстежуйте рухи ворожого патруля.
 
-Secondary Target: Identify any weapons or equipment being carried by the enemy patrol.
+Другорядна ціль: визначте будь-яку зброю чи обладнання, яке має ворожий патруль.
 
-ROE: Use of force is authorized if necessary to protect the reconnaissance team.
+ROE: дозволяється застосування сили, якщо це необхідно для захисту розвідувальної групи.
 
-Threats: The enemy patrol is heavily armed and may call for reinforcements if they detect our reconnaissance team.
+Загрози: ворожий патруль добре озброєний і може викликати підкріплення, якщо виявить нашу розвідувальну групу.
 ]]

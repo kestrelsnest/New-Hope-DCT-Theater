@@ -5,10 +5,10 @@ cost = 25
 coalition = 1 
 priority = 10
 desc = [[
-Situation: The enemy has established a communication center in a dense urban area. 
-The communication center is heavily guarded by enemy troops and anti-aircraft defenses.
+Ситуація: ворог створив вузол зв'язку в густонаселеній зоні.
+Вузол зв'язку посилено охороняється військами противника та засобами ППО.
 
-Objective: The objective of this mission is to destroy the communication center and disrupt the enemy's ability to coordinate their military operations.
+Мета: мета цієї місії — знищити комунікаційний центр і порушити здатність ворога координувати свої дії.
 
-Threats: The communication center is located in a dense urban area and heavily guarded by enemy troops and anti-aircraft defenses.
+Загрози: вузол зв’язку розташований у густонаселеній місцевості та посилено охороняється ворожими військами та засобами протиповітряної оборони.
 ]]

@@ -5,7 +5,7 @@ coalition = 1
 subordinates = {
  
 }
-desc = "Aleppo"
+desc = "Алеппо"
 recoverytype = "land"
 takeofftype = "runway"
 cost = 22

@@ -4,9 +4,9 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have set up a training camp in a remote area, where they are training new recruits.
+Ситуація: ворожі сили створили тренувальний табір у віддаленій місцевості, де вони навчають новобранців.
 
-Objective: Destroy the training camp and any enemy forces in the area.
+Мета: знищити тренувальний табір і будь-які сили противника в цьому районі.
 
-Threats: AAA, ground forces, potential enemy air threats.
+Загрози: ППО, наземні сили, повітряні загрози потенційного ворога.
 ]]

@@ -5,10 +5,10 @@ cost = 15
 priority = 6
 regenerate = true
 desc = [[
-Situation: Our intelligence has identified the location of an SA-11 SAM site near Tripoli. 
-This site is preventing us from conducting operations in the region, and must be taken out.
+Ситуація: наша розвідка визначила місце розташування ЗРК SA-11 поблизу Тріполі.
+Він заважає нам проводити операції в регіоні, тому його необхідно знищити.
 
-Objective: Target and destroy the identified SA-11 SAM site.
+Мета: поцілити та знищити ідентифікований ЗРК SA-11.
 
-Threats: AAA and other SAM sites.
+Загрози: AAA та інше ППО.
 ]]

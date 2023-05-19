@@ -6,10 +6,10 @@ priority = 1
 regenerate = true
 spawnalways = true
 desc = [[
-Situation: Our reconnaissance aircraft have spotted an SA-10 SAM Site in the area, and we believe it is targeting friendly naval vessels in the nearby sea. 
-We need to take out the SAM Site to protect our ships.
+Ситуація: наш літак-розвідник помітив у цьому районі ЗРК SA-10, і ми вважаємо, що він націлений на дружні військово-морські кораблі в сусідньому морі.
+Нам потрібно знищити об'єкти ЗРК, щоб захистити наші кораблі.
 
-Objective: Destroy the SA-10 SAM Site.
+Мета: знищити пункт ЗРК SA-10.
 
-Threats: The SAM Site is heavily protected by AAA units and is located near a major enemy naval base.
+Загрози: пункт SAM надійно захищений підрозділами AAA та розташований поблизу великої військово-морської бази противника.
 ]]

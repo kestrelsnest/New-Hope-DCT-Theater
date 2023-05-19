@@ -4,16 +4,16 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy forces have captured our airport and established a strong presence in the area.
+Ситуація: сили противника захопили наш аеропорт і встановили сильну присутність у цьому районі.
 
-Objective: Conduct armed recon to gather intelligence on enemy forces and identify potential weak points in their defenses.
+Мета: проводити збройну розвідку для збору розвідданих про ворожі сили та виявлення потенційних слабких місць у їхньому захисті.
 
-Primary Target: Locate and identify enemy troop movements and positions within the airport complex.
+Основна мета: Знайти та ідентифікувати рухи ворожих військ та їхні позиції в межах аеропортового комплексу.
 
-Secondary Target: Observe and report any suspicious activities, such as the movement of heavy equipment or the construction of fortifications.
+Додаткова мета: Спостерігати та повідомляти про будь-які підозрілі дії, такі як рух важкого обладнання або будівництво укріплень.
 
-ROE: Weapons free, engage any hostile targets on sight.
+ROE: Вільне використання зброї, взаємодіяти з будь-якими ворожими цілями при їх засіченні.
 
-Threats: The enemy is likely to have a well-trained and heavily-armed force in the area. 
-Anti-aircraft guns and surface-to-air missiles may be present, so caution is advised when flying over the airport.
+Загрози: Імовірно, ворожі сили мають добре підготовлені та сильно озброєні війська в області.
+Можуть бути присутні протиповітряні гармати та зенітно-ракетні комплекси, тому слід бути обережним при польоті над аеропортом.
 ]]

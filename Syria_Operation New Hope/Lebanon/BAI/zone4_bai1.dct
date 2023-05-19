@@ -4,9 +4,9 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have taken control of a bridge and are using it to move supplies and personnel across a river.
+Ситуація: ворожі сили взяли під контроль міст і використовують його для переміщення припасів і персоналу через річку.
 
-Objective: Destroy the bridge and any enemy forces in the area.
+Мета: знищити міст і будь-які ворожі сили в цьому районі.
 
-Threats: AAA, ground forces, potential enemy air threats.
+Загрози: ППО, наземні сили, повітряні загрози потенційного ворога.
 ]]

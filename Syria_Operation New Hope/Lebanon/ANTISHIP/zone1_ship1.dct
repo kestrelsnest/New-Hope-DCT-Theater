@@ -4,9 +4,9 @@ cost = 15
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Our intelligence reports indicate that a cargo ship group is heading towards an enemy port, carrying vital supplies that are critical to their military operations.
+Ситуація: наші розвідувальні дані свідчать про те, що група вантажних кораблів прямує до ворожого порту з життєво важливими припасами , які мають вирішальне значення для ворожих військових операцій.
 
-Objective: The objective of this mission is to prevent the cargo ships from reaching the enemy port and to destroy them before they can deliver their supplies.
+Мета: не довзолити вантажним кораблям дістатися ворожого порту та знищити їх до того, як вони зможуть доставити свої запаси.
 
-Threats: Unknown naval threats may be present in the area, including enemy warships, submarines, and aircraft. It is also possible that the cargo ships themselves may be armed and pose a threat to our forces.
+Загрози: у цьому районі можуть існувати невиявлені морські загрози, включаючи ворожі військові кораблі, підводні човни та літаки. Також можливо, що самі вантажні кораблі можуть мати озброєння та становити загрозу нашим силам.
 ]]

@@ -5,9 +5,9 @@ cost = 25
 priority = 10
 regenerate = true
 desc = [[
-Situation: The SA-2 SAM site is located in a heavily fortified area, with significant anti-aircraft defenses.
+Ситуація: місце розташування ЗРК SA-2 розташоване в сильно укріпленому районі зі значним протиповітряним захистом.
 
-Objective: Neutralize the SA-2 SAM site and eliminate the threat to friendly aircraft.
+Мета: нейтралізувати місце розташування ЗРК SA-2 і усунути загрозу дружнім літакам.
 
-Threats: AAA, other SAM sites, potential collateral damage.
+Загрози: AAA, інші пункти SAM, потенційні супутні збитки.
 ]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 10
 desc = [[
-Situation: An EWR has been detected on the outskirts of an enemy airbase, which is the main hub for enemy fighter aircraft in the area. 
-The EWR is being used to coordinate and direct enemy fighter aircraft to intercept and engage our aircraft.
+Ситуація: EWR виявлено на околицях авіабази противника, яка є основним центром винищувачів противника в цьому районі.
+EWR використовується для координації та скерування ворожих винищувачів на перехоплення наших літаків і ураження ними.
 
-Objective: The objective is to locate and destroy the EWR to disrupt enemy air operations and reduce the threat to our aircraft.
+Мета: мета полягає в тому, щоб знайти та знищити EWR, щоб перешкодити повітряним операціям противника та зменшити загрозу нашій авіації.
 
-Threats: Enemy fighter aircraft, ground-based air defenses, and potential SAM sites.
+Загрози: винищувачі противника, наземні засоби протиповітряної оборони та потенційні місця розташування ЗРК.
 ]]

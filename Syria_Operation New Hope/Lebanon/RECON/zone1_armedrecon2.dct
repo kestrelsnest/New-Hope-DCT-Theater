@@ -3,10 +3,10 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: %LOCATIONMETHOD% small enemy recon group that crossed Israel border.
+Ситуація: %LOCATIONMETHOD% невелика розвідгрупа противника перетнула кордон Ізраїлю.
 
-Objective: Conduct an armed reconnaissance mission to identify and locate any enemy positions and obstacles in the area of the target.
-You are authorized to engage any enemy forces that pose a threat to friendly forces or are actively engaging friendly forces.
+Мета: Провести збройну розвідку для виявлення та визначення місцезнаходження будь-яких позицій і перешкод противника в районі цілі.
+Ви маєте право вступати в бій з будь-якими силами противника, які становлять загрозу дружнім силам або активно вступають у бій з дружніми силами.
 
-Threats: The area of operation is unknown and may contain a range of potential threats, including enemy ground forces, air defenses.
+Загрози: район дії невідомий і може містити низку потенційних загроз, включаючи наземні сили противника, ППО.
 ]]

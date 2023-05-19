@@ -5,9 +5,9 @@ cost = 20
 ondemand = true
 priority = 7
 desc = [[
-Situation: Enemy forces have established a checkpoint on a major road, blocking access to a key target.
+Ситуація: ворожі сили встановили блокпост на головній дорозі, блокуючи доступ до ключової цілі.
 
-Objective: Clear the checkpoint and neutralize any enemy forces in the area.
+Мета: очистити контрольно-пропускний пункт і нейтралізувати будь-які ворожі сили в цьому районі.
 
-Threats: AAA, ground forces, potential enemy air threats.
+Загрози: ППО, наземні сили, повітряні загрози потенційного противника.
 ]]

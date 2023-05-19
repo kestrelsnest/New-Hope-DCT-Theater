@@ -3,11 +3,11 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: Our forces have recently lost contact with a remote area suspected to be used by enemy forces for training and weapons storage. 
-We need to conduct an armed recon mission to gather intel and assess the threat level of this area.
+Ситуація: наші сили нещодавно втратили зв’язок із віддаленою територією, яка, ймовірно, використовується ворожими силами для навчання та зберігання зброї.
+Нам потрібно провести збройну розвідку для збору інформації та оцінки рівня загрози цієї території.
 
-Objective: Fly over the designated area, observe and report any signs of enemy presence or activity. If possible, engage any targets of opportunity.
+Завдання: Пролетіти над вказаною областю, спостерігати та повідомляти про будь-які ознаки присутності або діяльності ворога. При можливості, взаємодіяти з будь-якими ворожими цілями, що з'являться.
 
-Threats: The area is suspected to be heavily defended, with possible AAA, small arms fire, and MANPADS. 
-The enemy is known to have a variety of vehicles and weapons, including possible armor and SAMs, so be prepared for a variety of threats.
+Загрози: підозрюється, що територія посилено захищена, можливий вогонь з ПЗРК, стрілецької зброї та наземних протиповітряних ракетних комплексів.
+Відомо, що ворог має різноманітні транспортні засоби та зброю, включно з можливою бронею та зенітними ракетами, тож будьте готові до різноманітних загроз.
 ]]

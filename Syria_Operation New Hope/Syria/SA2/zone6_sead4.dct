@@ -5,9 +5,9 @@ cost = 20
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy is believed to have set up a SA-2 SAM site in a mountainous area, making it difficult to target.
+Ситуація: ймовірно, ворог розташував ЗРК SA-2 у гірській місцевості, що ускладнює ураження.
 
-Objective: Destroy the SA-2 SAM site and eliminate the threat to friendly aircraft.
+Мета: знищити місце розташування ЗРК SA-2 і усунути загрозу дружнім літакам.
 
-Threats: AAA, other SAM sites.
+Загрози: AAA, інші пункти SAM.
 ]]

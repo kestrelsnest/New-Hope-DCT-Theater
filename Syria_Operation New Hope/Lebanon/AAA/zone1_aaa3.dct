@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: Enemy forces have established a air defense units near the road outpost, posing a significant threat to friendly air assets.
+Ситуація: війська противника розмістили підрозділи протиповітряної оборони поблизу дорожнього блокпосту, створюючи значну загрозу для авіації союзних військ.
 
-Objective: Neutralize all AAA emplacements and associated infrastructure.
+Мета: нейтралізувати всі вогневі позиції ППО та відповідну інфраструктуру.
 
-Threats: Multiple AAA emplacements, advanced air defense systems, enemy ground forces.
+Загрози: численні точки протиповітряної оборони, передові системи ППО, наземні сили противника.
 ]]

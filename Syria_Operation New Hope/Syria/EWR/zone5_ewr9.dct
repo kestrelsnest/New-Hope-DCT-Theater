@@ -4,10 +4,10 @@ coalition = 1
 cost = 25
 priority = 10
 desc = [[
-Situation: The enemy has established a heavily defended area, which includes several EWR SAM Sites. 
-We need to take out these sites to enable safe air operations in the area.
+Ситуація: ворог укріплює район із посиленою обороною, який включає кілька об’єктів ЗРК РЕБ.
+Нам потрібно знищити ці об’єкти, щоб забезпечити безпечні повітряні операції в цьому районі.
 
-Objective: Destroy all identified EWR SAM Sites in the area to enable safe air operations.
+Мета: знищити всі ідентифіковані місця ЗРК EWR у цьому районі, щоб забезпечити безпечні повітряні операції.
 
-Threats: Unknown, potential AAA and other ground-based defenses.
+Загрози: невідомі, потенційні протиракетні та інші засоби наземного захисту.
 ]]

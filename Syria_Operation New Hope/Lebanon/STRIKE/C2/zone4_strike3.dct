@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 5
 desc = [[
-Situation: A major enemy command center has been identified and needs to be destroyed. 
-The facility is believed to be heavily guarded and protected by enemy forces.
+Ситуація: виявлено головний командний центр противника, який потрібно знищити.
+Вважається, що об’єкт посилено охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the command center and disrupt the enemy's ability to coordinate and conduct its military operations.
+Мета: мета цієї місії — знищити командний центр і порушити здатність ворога координувати та проводити військові дії.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

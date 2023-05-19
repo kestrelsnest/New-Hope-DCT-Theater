@@ -3,9 +3,9 @@ intel = 4
 coalition = 1
 cost = 20
 desc = [[
-Situation: A enemy cargo plane has been identified at Beirut Airport and needs to be destroyed. The area is believed to be well guarded and protected by enemy forces.
+Ситуація: в аеропорту Бейрут виявлено ворожий вантажний літак, який потрібно знищити. За наявною інформацією територія добре захищена ворожими силами.
 
-Objective: The objective of this mission is to destroy the transport airplane and disrupt the enemy's ability to supply its military operations.
+Мета: знищити транспортний літак і порушити здатність противника забезпечити свої військові операції.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються ПВО та інші наземні сили противника.
 ]]

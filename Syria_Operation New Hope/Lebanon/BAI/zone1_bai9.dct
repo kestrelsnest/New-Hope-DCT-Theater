@@ -4,17 +4,17 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has established a road outpost on a major supply route, threatening our ground forces and disrupting our supply chain.
+Ситуація: ворог створив дорожній форпост на головному маршруті постачання, загрожуючи нашим наземним силам і порушуючи наш ланцюг постачання.
 
-Objective: Destroy the enemy road outpost to disrupt their operations and improve the security of our forces and supply lines.
+Мета: знищити ворожий дорожній форпост, щоб порушити його операції та покращити безпеку наших сил і ліній постачання.
 
-Primary Target: The enemy road outpost, including any vehicles, personnel, and equipment present.
+Основна ціль: ворожий дорожній форпост, включаючи будь-які транспортні засоби, особовий склад і обладнання.
 
-Secondary Target: Any enemy reinforcements or supply convoys spotted en route to the outpost.
+Додаткова ціль: будь-яке вороже підкріплення або конвої постачання, помічені на шляху до форпосту.
 
-ROE: Weapons Free on all valid targets.
+ROE: дозволений будь який вогонь по цілям які відповідають опису.
 
-Threats: The enemy road outpost is heavily defended and may have anti-aircraft weapons or other defenses. 
-Watch for enemy ground forces and reinforcements attempting to intercept or engage our aircraft. 
-Be aware of any civilians or non-combatants in the area and avoid collateral damage if possible.
+Загрози: Ворожий дорожній форпост добре захищений і може мати зенітне озброєння або інші засоби захисту.
+Слідкуйте за наземними силами та підкріпленнями противника, які намагаються перехопити наші літаки або вразити їх.
+Слідкуйте за будь-якими цивільними в цьому районі та уникайте супутніх збитків, якщо це можливо.
 ]]

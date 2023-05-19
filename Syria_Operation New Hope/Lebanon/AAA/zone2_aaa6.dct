@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: Intelligence reports indicate a AAA installation at %LOCATION%"
+Ситуація: розвідувальні звіти вказують на розгортання AAA в %LOCATION%"
 
-Objective: Strike the enemy AAA installation to secure friendly airspace.
+Мета: завдати удару по установці зенітно-ракетної системи противника, щоб забезпечити повітряний простір для союзної авіації.
 
-Threats: Multiple AAA emplacements are expected to be in the area, along with the possibility of enemy fighter aircraft.
+Загрози. Очікується, що в цьому районі буде кілька об'єктів ППО, а також можлива наявність винищувачів противника.
 ]]

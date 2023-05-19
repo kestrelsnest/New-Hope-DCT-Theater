@@ -3,10 +3,10 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: Reports indicate that enemy forces may be gathering in a designated area, and we need to confirm their presence and assess their strength.
+Ситуація: Звіти свідчать про те, що сили противника, можливо, збираються у визначеному районі, і нам потрібно підтвердити їхню присутність і оцінити їх силу.
 
-Objective: Conduct an armed reconnaissance mission to identify any enemy forces in the designated area and assess their strength. 
-You are authorized to engage any enemy forces that pose a threat to friendly forces or are actively engaging friendly forces.
+Мета: Провести збройну розвідку для виявлення будь-яких сил противника в призначеному районі та оцінити їх силу.
+Ви маєте право вступати в бій з будь-якими силами противника, які становлять загрозу дружнім силам або активно вступають у бій з дружніми силами.
 
-Threats: The area of operation is unknown and may contain a range of potential threats, including enemy ground forces, air defenses.
+Загрози: район дії невідомий і може містити низку потенційних загроз, включаючи наземні сили противника, ППО.
 ]]

@@ -4,10 +4,10 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has set up an AAA position on the outskirts of a major city. 
-There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+Ситуація: ворог облаштував позицію ППО на околицях великого міста.
+У безпосередній зоні немає дружніх сил, але можуть бути наземні сили іншого потенційного ворога.
 
-Objective: Conduct a precision strike on the AAA position to degrade the enemy's ability to defend the city and surrounding areas.
+Мета: нанести точний удар по позиції ППО, щоб знизити здатність противника обороняти місто та прилеглі території.
 
-Threats: Heavy AAA fire, potential enemy ground forces in the area.
+Загрози: потужний зенітний вогонь, наземні сили потенційного противника в цьому районі.
 ]]

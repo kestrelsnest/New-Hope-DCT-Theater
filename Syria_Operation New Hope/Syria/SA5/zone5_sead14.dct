@@ -6,9 +6,9 @@ priority = 1
 regenerate = true
 spawnalways = true
 desc = [[
-Situation: Our forces are planning an air assault on a high-value target in the enemy's territory, but a SA-5 SAM site is blocking our path.
+Ситуація: наші сили планують повітряну атаку на важливу ціль на території противника, але ЗРК SA-5 блокує наш шлях.
 
-Objective: Neutralize the SA-5 SAM site to clear the way for our air assault.
+Мета: нейтралізувати місце ЗРК SA-5, щоб розчистити шлях для нашого повітряного нападу.
 
-Threats: The SA-5 SAM site is well defended and has additional AAA and other SAM sites in the vicinity.
+Загрози: сайт SA-5 SAM добре захищений і має додаткові місця AAA та інші SAM поблизу.
 ]]

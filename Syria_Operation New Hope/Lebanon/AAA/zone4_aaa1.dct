@@ -4,10 +4,10 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has established a heavily fortified AAA position in a remote area. 
-There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+Ситуація: Противник зайняв добре укріплену позицію ППО у віддаленому районі.
+У безпосередній зоні немає дружніх сил, але можуть бути наземні сили іншого потенційного противника.
 
-Objective: Conduct a precision strike on the AAA position to degrade the enemy's ability to defend their territory.
+Мета: нанести точний удар по позиції ППО, щоб знизити здатність противника захищати свою територію.
 
-Threats: Heavy AAA fire, potential enemy ground forces in the area.
+Загрози: потужний зенітний вогонь, наземні сили потенційного противника в цьому районі.
 ]]

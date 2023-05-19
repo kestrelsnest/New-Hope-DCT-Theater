@@ -5,10 +5,10 @@ cost = 50
 coalition = 1 
 priority = 10
 desc = [[
-Situation: Intelligence reports indicate the enemy's command center is located in a heavily fortified compound near Palmyra airport. 
-The compound is protected by anti-aircraft guns, radar, and other defenses.
+Ситуація: за даними розвідки, командний центр противника розташований у добре укріпленому комплексі поблизу аеропорту Пальміри.
+Комплекс захищений зенітними гарматами, радаром та іншими засобами захисту.
 
-Objective: The objective of this mission is to destroy the enemy's command center and disrupt their ability to coordinate and control their forces.
+Мета: мета цієї місії — знищити командний центр противника та порушити його здатність координувати та контролювати свої сили.
 
-Threats: AAA, MANPADS, and other ground defenses are expected in the area.
+Загрози: в цьому районі очікуються зенітні ракетні комплекси, ПЗРК та інші засоби наземного захисту.
 ]]

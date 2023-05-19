@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has established a significant AAA presence in a mountain area. There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+Ситуація: ворог встановив значну кількість ППО в гірському районі. У безпосередній зоні немає дружніх сил, але можуть бути наземні сили іншого потенційного ворога.
 
-Objective: Conduct a precision strike on the AAA positions to degrade the enemy's ability to conduct air defense operations in the region.
+Мета: Нанесення високоточного удару по позиціях ЗСУ з метою зниження здатності противника вести протиповітряну оборону в регіоні.
 
-Threats: Heavy AAA fire, potential enemy ground forces in the area.
+Загрози: потужний зенітний вогонь, наземні сили потенційного ворога в цьому районі.
 ]]

@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: An enemy stronghold located deep within their territory is being used as a hub for AAA emplacements, severely hampering friendly air operations.
+Ситуація: ворожий опорний пункт, розташований глибоко в межах їхньої території, використовується як центр для коригування вогню ППО, що серйозно перешкоджає дружнім повітряним операціям.
 
-Objective: Conduct a surgical strike to neutralize all AAA emplacements and associated infrastructure.
+Мета: провести точний авіаудар для нейтралізації всіх об'єктів ППО та пов’язаної з ними інфраструктури.
 
-Threats: Multiple AAA emplacements, enemy ground forces, potential air defenses.
+Загрози: численні пункти протиракетної оборони, наземні сили противника, потенційна протиповітряна оборона.
 ]]

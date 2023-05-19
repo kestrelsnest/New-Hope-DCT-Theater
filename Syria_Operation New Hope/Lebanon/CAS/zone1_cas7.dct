@@ -5,14 +5,13 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Friendlies are holding a compound in a built-up urban area. 
-The enemy has infiltrated the area and is using buildings to launch attacks on the friendly forces. 
-The friendly forces are under heavy fire and are in danger of being overrun.
+Ситуація: дружні сили утримують комплекс в забудованій міській зоні. Ворог проник у район та використовує будівлі для атак на дружні сили. 
+Дружні сили зазнають інтенсивного вогню та перебувають під загрозою прориву.
 
-Objective: Provide close air support to the friendly forces at the compound. 
-Suppress enemy forces and prevent them from overrunning the friendly position.
-Help the friendly forces clear the buildings and eliminate the enemy threat.
-Only engage confirmed hostile targets.
+Мета: надати безпосередню підтримку з повітря дружнім силам на базі.
+Придушити ворожі сили та не дати їм захопити дружню позицію.
+Допоможіть дружнім силам очистити будівлі та усунути загрозу противника.
+Вражайте лише підтверджені ворожі цілі.
 
-Threats: Enemy ground forces, snipers, improvised explosive devices (IEDs).
+Загрози: наземні сили противника, снайпери, саморобні вибухові пристрої (СВУ).
 ]]

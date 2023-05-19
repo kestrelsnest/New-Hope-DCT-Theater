@@ -6,17 +6,17 @@ ondemand = true
 spawnalways = true
 coalition = 1
 desc = [[
-Situation: Friendly special operations forces (SOF) are waiting for extraction, but the enemy is moving towards their position.
+Ситуація: Дружні сили спеціальних операцій (SOF) очікують на евакуацію, але ворог наближається до їх позицій.
 
-Objective: The primary objective is to provide close air support (CAS) to the friendly SOF team and eliminate any enemy threats in the area to secure their extraction.
+Мета: головна мета — надати безпосередню підтримку з повітря (CAS) дружній групі SOF і усунути будь-які загрози противника в цьому районі, щоб забезпечити їх виведення.
 
-Primary Target: The primary target is any enemy forces that pose a threat to the friendly SOF team. 
-This could include infantry, armored vehicles, or other military equipment.
+Основна ціль: Основною ціллю є будь-які сили противника, які становлять загрозу для дружньої команди SOF.
+Це може включати піхоту, бронетехніку чи іншу військову техніку.
 
-Secondary Target: Extract SOF team and trasport them to Haifa airbase (optional)
+Додаткова ціль: Евакуація команди SOF та транспортування їх до авіабази Хайфа (необов'язково).
 
-ROE: Weapons free. You are authorized to engage any enemy targets that pose a threat to the friendly SOF team or interfere with their extraction.
+ROE: Зброя вільна. Ви маєте дозвіл здійснювати вогонь по будь-яким ворожим цілям, які становлять загрозу для дружньої команди SOF або перешкоджають їх евакуації.
 
-Threats: The threats in the area may include infantry, armored vehicles, anti-aircraft weapons, and other military equipment. 
-The enemy may also have air assets that could pose a threat to friendly aircraft.
+Загрози: загрози в цьому районі можуть включати піхоту, бронетехніку, протиповітряну зброю та іншу військову техніку.
+Ворог також може мати повітряні засоби, які можуть становити загрозу для дружніх літаків.
 ]]
