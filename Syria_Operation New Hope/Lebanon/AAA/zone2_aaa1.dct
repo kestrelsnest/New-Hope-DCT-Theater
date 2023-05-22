@@ -4,10 +4,10 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has established a number of AAA sites in a Beirut Airport Area. 
-The AAA is posing a serious threat to friendly air assets and hindering operations.
+Ситуація: ворог встановив кілька об’єктів ППО в районі аеропорту Бейрута.
+AAA становить серйозну загрозу для дружніх повітряних засобів і перешкоджає операціям.
 
-Objective: Locate and destroy the AAA emplacements to secure friendly airspace.
+Мета: знайти та знищити вогневі пункти AAA, щоб забезпечити вільне проходження повітряного простору.
 
-Threats: The area is heavily defended with multiple AAA sites and the possibility of enemy ground forces.
+Загрози: територія добре захищена кількома об’єктами ППО та ймовірністю наземних сил противника.
 ]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 25
 priority = 10
 desc = [[
-Situation: The enemy has deployed several EWR SAM Sites in the area, making it difficult for our forces to operate. 
-We need to take out these sites to regain control of the airspace.
+Ситуація: ворог розгорнув у цьому районі кілька пунктів ЗРК РЕБ, що ускладнює роботу наших сил.
+Нам потрібно знищити ці пункти, щоб відновити контроль над повітряним простором.
 
-Objective: Destroy all identified EWR SAM Sites in the area to regain control of the airspace.
+Мета: знищити всі ідентифіковані сайти ЗРК EWR у цьому районі, щоб відновити контроль над повітряним простором.
 
-Threats: Unknown, potential AAA and other ground-based defenses.
+Загрози: невідомі, потенційні протиракетні та інші засоби наземного захисту.
 ]]

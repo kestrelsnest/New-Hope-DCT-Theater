@@ -4,9 +4,9 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have been spotted holding a strategic location, using the natural terrain to their advantage.
+Ситуація: помічено ворожі сили, які утримують стратегічне вигідне розташування, використовуючи природний рельєф для своїх інтересів.
 
-Objective: Conduct a BAI mission to destroy the enemy forces and deny them their strategic position.
+Мета: виконати місію BAI, щоб знищити сили противника та позбавити їх стратегічної переваги.
 
-Threats: AAA, MANPADS, and ground-based threats.
+Загрози: AAA, ПЗРК і наземні загрози.
 ]]

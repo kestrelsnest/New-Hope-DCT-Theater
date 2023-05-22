@@ -4,18 +4,18 @@ coalition = 1
 cost = 20
 priority = 8
 desc = [[
-Situation: Our intelligence indicates that an enemy warehouse has been turned into an ammo depot. 
-The depot is heavily guarded by enemy soldiers.
+Ситуація: наша розвідка вказує, що ворожий склад перетворено на склад боєприпасів.
+Склад посилено охороняється ворожими солдатами.
 
-Objective: Your objective is to strike the warehouse and neutralize the enemy threat by destroying the ammo depot.
+Мета: ваша мета — вдарити по складу та нейтралізувати ворожу загрозу, знищивши склад боєприпасів.
 
-Primary Target: The primary target is the ammo depot located inside the warehouse. 
-The ammo depot contains various types of ammunition, including rockets, mortars, and grenades.
+Основна ціль: Основною ціллю є склад боєприпасів, розташований всередині складу.
+На складі боєприпасів знаходяться різні види боєприпасів, включаючи ракети, міномети, гранати.
 
-Secondary Target: The secondary target is any enemy personnel in the area. The enemy soldiers guarding the ammo depot must be neutralized to ensure the safety of our troops.
+Другорядна ціль: другорядна ціль — будь-який ворожий персонал у зоні. Ворожі солдати, які охороняють склад боєприпасів, повинні бути нейтралізовані, щоб забезпечити безпеку наших військ.
 
-ROE: Weapons Free. You are authorized to engage any enemy targets in the area. Use caution to avoid civilian casualties and collateral damage.
+ROE: Вогонь дозволено. Ви маєте право вражати будь-які ворожі цілі в цьому районі. Будьте обережні, щоб уникнути жертв серед цивільного населення.
 
-Threats: The enemy soldiers guarding the ammo depot are armed with assault rifles, RPGs, and other heavy weapons. 
-Expect resistance and be prepared for a fight. The area may also be booby-trapped with mines or IEDs, so exercise caution while navigating the area.
+Загрози: ворожі солдати, які охороняють склад боєприпасів, озброєні автоматами, РПГ та іншим важким озброєнням.
+Очікуйте опору і будьте готові до бійки. Ця територія також може бути замінована мінами або саморобними вибуховими засобами, тому будьте обережні під час навігації територією.
 ]]

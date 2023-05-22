@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has established a series of AAA sites along a key coastal region, threatening friendly naval operations in the area.
+Ситуація: ворог створив низку об'єктів ППО вздовж ключового прибережного регіону, загрожуючи союзним морським операціям у цьому районі.
 
-Objective: Locate and destroy the AAA emplacements along the coast to ensure safe naval operations.
+Мета: знайти та знищити вогневі позиції ППО вздовж узбережжя, щоб забезпечити безпеку морських операцій.
 
-Threats: The AAA sites are expected to be heavily defended, with the possibility of enemy fighter aircraft in the area.
+Загрози: очікується, що об’єкти AAA будуть посилено захищені, з ймовірністю знаходження в цьому районі винищувачів противника.
 ]]

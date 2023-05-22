@@ -4,16 +4,16 @@ coalition = 1
 cost = 20
 priority = 5
 desc = [[
-Situation: The enemy has taken control of a TV station and is broadcasting propaganda messages to the surrounding area.
+Ситуація: ворог захопив телевізійну станцію та транслює пропагандистські повідомлення на околиці.
 
-Objective: Our objective is to neutralize the enemy presence at the TV station and prevent them from continuing their propaganda broadcasts.
+Мета: Наша мета – нейтралізувати присутність противника на телестанції та не дати їм продовжувати пропагандистські передачі.
 
-Primary Target: The TV station building itself is the primary target. We need to neutralize any enemy forces inside and secure the building.
+Основна ціль: сама будівля телевізійної станції є основною ціллю. Нам потрібно нейтралізувати будь-які ворожі сили всередині та захистити будівлю.
 
-Secondary Target: Any vehicles or equipment used by the enemy to facilitate their broadcast operations should also be targeted and neutralized if possible.
+Додаткова ціль: будь-які транспортні засоби чи обладнання, що використовуються ворогом для полегшення своїх трансляційних операцій, також повинні бути націлені та нейтралізовані, якщо це можливо.
 
-ROE: Weapons Free. The enemy is actively spreading propaganda and may pose a threat to nearby civilians or our own forces if allowed to continue.
+ROE: Вогонь дозволено. Противник активно поширює пропаганду і може становити загрозу для мирних жителів поблизу або наших власних сил, якщо дозволити продовжувати.
 
-Threats: The enemy may have armed guards stationed at the TV station and may also have other forces nearby that could respond to an attack. 
-The surrounding area may also be heavily populated, making it important to avoid collateral damage.
+Загрози: ворог може мати озброєну охорону, розміщену біля телевізійної станції, а також інші сили поблизу, які можуть відповісти на атаку.
+Навколишня територія також може бути густонаселеною, тому важливо уникнути цивільних жертв.
 ]]

@@ -5,10 +5,10 @@ cost = 50
 coalition = 1 
 priority = 10
 desc = [[
-Situation: A factory, believed to be producing radar systems, has been identified as a key target for destruction. 
-The facility is believed to be heavily guarded and protected by enemy forces.
+Ситуація: Завод, який, імовірно, виробляє радіолокаційні системи, визначено як головну ціль для знищення.
+Вважається, що об’єкт посилено охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the factory building.
+Мета: Мета цієї місії - знищити будівлю фабрики.
 
-Threats: AAA, SAMs and other enemy ground forces are expected in the area.
+Загрози: в цьому районі очікуються ЗРК, ЗРК та інші наземні сили противника.
 ]]

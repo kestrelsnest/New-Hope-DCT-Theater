@@ -5,11 +5,11 @@ cost = 25
 coalition = 1 
 priority = 10
 desc = [[
-Situation: An enemy communication tower has been identified as a key target for destruction. 
-The tower is believed to be heavily guarded and protected by enemy forces.
+Ситуація: ворожу вежу зв'язку визначено як ключову ціль для знищення.
+Вважається, що вежа ретельно охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the communication tower and disrupt the enemy's ability to communicate and coordinate their actions.
+Мета: мета цієї місії — знищити комунікаційну вежу та порушити здатність ворога спілкуватися та координувати свої дії.
 
-Threats: The tower is heavily defended, and enemy ground forces are expected in the area. 
-Anti-aircraft artillery (AAA) and surface-to-air missiles (SAMs) may also be present to protect the tower.
+Загрози: вежа добре захищена, і в цьому районі очікуються наземні сили противника.
+Для захисту вежі також можуть бути застосовані зенітна артилерія (ЗРА) і ракети «земля-повітря» (ЗРК).
 ]]

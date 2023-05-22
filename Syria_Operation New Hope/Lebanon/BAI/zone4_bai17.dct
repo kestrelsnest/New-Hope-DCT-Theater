@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have set up a defensive position at a key location on a mountain pass. 
-Our ground forces are unable to advance until the enemy is neutralized.
+Ситуація: сили противника зайняли оборонну позицію в ключовому місці на гірському перевалі.
+Наші сухопутні війська не можуть просунутися, поки сили ворога не будуть нейтралізовані.
 
-Objective: Conduct a BAI mission to destroy the enemy position and allow our ground forces to advance.
+Мета: виконати місію BAI, щоб знищити ворожу позицію та дозволити нашим наземним силам просунутися.
 
-Threats: AAA, MANPADS, and ground-based threats.
+Загрози: AAA, ПЗРК і наземні загрози.
 ]]

@@ -6,16 +6,16 @@ ondemand = true
 coalition = 1
 spawnalways = true
 desc = [[
-Situation: A friendly helicopter has been downed, and the enemy is moving towards its position.
+Ситуація: Один з наших вертольотів був збитий, а ворог наближається до його позиції.
 
-Objective: Provide close air support to protect the downed helicopter and the friendly troops in the area.
+Мета: забезпечити безпосередню підтримку з повітря для захисту збитого гелікоптера та дружніх військ у цьому районі.
 
-Primary Target: The primary target is the enemy light armor advancing towards the downed helicopter and friendly troops.
+Основна ціль: Основною ціллю є легка бронетехніка противника, що просувається до збитого вертольота та дружніх військ.
 
-Secondary Target: Extract friendly units and transport them to Rosh Pina Aribase (Optional)
+Додаткова ціль: Евакуація дружніх підрозділів та їх транспортування до авіабази Рош-Піна (необов'язково).
 
-ROE: Weapons free. Engage any targets that pose a threat to friendly forces.
+ROE: Зброя вільна. Здійснюйте вогонь по будь-яким цілям, які становлять загрозу для дружніх сил.
 
-Threats: The main threats are enemy light armor  with small arms and light anti-aircraft weapons. 
-There may also be enemy vehicles or heavy weapons in the area that pose a threat to friendly forces.
+Загрози: Основною загрозою є ворожі легкі броньовані машини з легкою зброєю та протиповітряними засобами. Також можуть бути ворожі транспортні засоби або важка зброя в районі, 
+що становить загрозу для дружніх сил.
 ]]

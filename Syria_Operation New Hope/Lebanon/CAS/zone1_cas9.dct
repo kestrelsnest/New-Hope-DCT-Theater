@@ -5,18 +5,18 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy forces have captured our airport and our remaining defenders are surrounded.
+Ситуація: ворожі сили захопили наш аеропорт, і наші захисники, що залишилися, оточені.
 
-Objective: The primary objective is to provide close air support (CAS) to our defenders on the ground, neutralizing enemy forces and allowing our troops to break through and retake control of the airport.
+Мета: головна мета — надати безпосередню підтримку з повітря (CAS) нашим захисникам на землі, нейтралізувати ворожі сили та дозволити нашим військам прорватися та повернути контроль над аеропортом.
 
-Primary Target: The primary targets will be enemy forces and positions that are engaging our troops on the ground. 
-These could include enemy infantry, armored vehicles, and fortified positions.
+Основна ціль: основними цілями будуть ворожі сили та позиції, які вступають у бій з нашими військами на землі.
+Це може бути піхота противника, бронетехніка та укріплені позиції.
 
-Secondary Target: Secondary targets may include any additional enemy forces or positions that are deemed a threat to our mission or to our troops on the ground. 
-This could include enemy command and control centers, artillery positions, or supply depots.
+Додаткова ціль: Додаткова ціль може включати будь-які додаткові сили або позиції противника, які вважаються загрозою нашій місії або нашим військам на землі.
+Це може включати командні та контрольні центри противника, артилерійські позиції або склади постачання.
 
-ROE: Weapons Free. You are authorized to engage any enemy targets that pose a threat to our mission or to our troops on the ground.
+ROE: Зброя вільна. Ви маєте дозвіл здійснювати вогонь по будь-яким ворожим цілям, які становлять загрозу для нашої місії або наших військ на землі.
 
-Threats: The enemy may have a variety of threats, including ground-based anti-aircraft weapons, enemy aircraft, and surface-to-air missiles. 
-It is important to maintain situational awareness and to work closely with ground forces to ensure a successful mission.
+Загрози: Ворожі сили можуть мати різноманітні загрози, включаючи зенітні протиповітряні засоби на землі, ворожі літаки та зенітно-ракетні комплекси. 
+Важливо підтримувати ситуаційну обізнаність та тісно співпрацювати з наземними силами для успішної місії.
 ]]

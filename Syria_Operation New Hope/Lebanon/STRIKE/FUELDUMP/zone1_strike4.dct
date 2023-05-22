@@ -4,16 +4,16 @@ coalition = 1
 cost = 20
 priority = 9
 desc = [[
-Situation: Enemy fuel tanks have been spotted near small port and are believed to be a key source of the enemy's fuel supply.
+Ситуація: ворожі паливні цистерни були помічені поблизу невеликого порту, і вважаються ключовим джерелом постачання палива для ворога.
 
-Objective: Conduct a STRIKE mission to destroy the enemy fuel tanks and disrupt their fuel supply.
+Мета: виконати місію STRIKE, щоб знищити паливні баки противника та перервати їх постачання паливом.
 
-Primary Target: The primary target is the enemy fuel tanks. These should be destroyed with precision-guided munitions to ensure they are completely neutralized.
+Основна ціль: головною ціллю є паливні баки противника. Їх слід знищувати високоточними боєприпасами, щоб забезпечити їх повну нейтралізацію.
 
-Secondary Target: If possible, any enemy vehicles or equipment in the vicinity of the fuel tanks should also be destroyed.
+Додаткова ціль: якщо це можливо, будь-яку ворожу техніку або обладнання поблизу паливних баків також слід знищити.
 
-ROE: Weapons Free. The enemy has been identified as a legitimate target, and all available firepower can be employed to destroy the fuel tanks and any accompanying enemy equipment.
+ROE: Вогонь дозволено. Противника визначено як законну ціль, і для знищення паливних баків і будь-якого супутнього обладнання противника можна застосувати всю наявну вогневу міць.
 
-Threats: The main threat is enemy air defenses, including anti-aircraft guns and surface-to-air missiles. 
-These will need to be neutralized before the STRIKE mission can proceed. 
+Загрози: головною загрозою є протиповітряна оборона противника, включаючи зенітні установки та ракети «земля-повітря».
+Їх потрібно буде нейтралізувати, перш ніж місія STRIKE зможе продовжитись.
 ]]

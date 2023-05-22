@@ -4,10 +4,10 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: An enemy has recently established an AAA position near a strategic area. 
-There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+Ситуація: ворог нещодавно зайняв позицію ППО поблизу стратегічного району.
+У безпосередній зоні немає дружніх сил, але можуть бути наземні сили іншого потенційного ворога.
 
-Objective: Conduct a precision strike on the AAA position.
+Завдання: нанести точний удар по позиції ААА.
 
-Threats: Heavy AAA fire, potential enemy ground forces in the area.
+Загрози: потужний зенітний вогонь, наземні сили потенційного противника в цьому районі.
 ]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 9
 desc = [[
-Situation: A critical enemy fuel depot has been identified and needs to be destroyed. 
-The facility is believed to be well guarded and protected by enemy forces.
+Ситуація: критично важливий ворожий склад палива виявлено та потребує знищення.
+Вважається, що об’єкт добре охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the supply depot and disrupt the enemy's ability to supply its military operations.
+Мета: Мета цієї місії полягає в тому, щоб знищити склад постачання та порушити здатність ворога забезпечити свої військові операції.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

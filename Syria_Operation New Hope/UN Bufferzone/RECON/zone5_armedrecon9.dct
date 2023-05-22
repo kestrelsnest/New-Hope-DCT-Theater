@@ -4,12 +4,12 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy forces have been spotted gathering in a small village located just a few miles away from our airbase. 
-Intelligence reports indicate that they are preparing to launch an attack on our base, and could be equipped with both ground and air-based weapons.
+Ситуація: помічено, що ворожі сили збираються в невеликому селі, розташованому лише за кілька миль від нашої авіабази.
+Звіти розвідки свідчать про те, що вони готуються здійснити атаку на нашу базу та можуть бути оснащені як наземною, так і повітряною зброєю.
 
-Objective: Your objective is to conduct an armed reconnaissance mission in the area, gathering intelligence on enemy troop movements, equipment and positions. 
-You are also authorized to engage any enemy forces that you encounter during the mission.
+Мета: ваша мета — провести місію збройної розвідки в цьому районі, зібравши розвіддані про переміщення військ противника, обладнання та позиції.
+Ви також уповноважені вступати в бій з будь-якими ворожими силами, з якими ви зіткнетеся під час місії.
 
-Threats: The area is believed to be heavily defended, with numerous anti-aircraft weapons and other threats. 
-You can expect to face heavy resistance from both ground and air-based enemy forces, so you will need to exercise caution and be prepared for any eventuality.
+Загрози: вважається, що територія добре захищена, з численними зенітними озброєннями та іншими загрозами.
+Ви можете очікувати сильного опору як наземних, так і повітряних ворожих сил, тому вам потрібно бути обережним і бути готовим до будь-яких непередбачених ситуацій.
 ]]

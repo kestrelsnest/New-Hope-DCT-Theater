@@ -4,16 +4,16 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Our outpost on the UN Buffer Zone Border is under attack by enemy forces.
+Ситуація: наш форпост на кордоні буферної зони ООН атакують ворожі сили.
 
-Objective: Provide close air support (CAS) to defend the outpost and eliminate enemy forces.
+Мета: забезпечити безпосередню підтримку з повітря (CAS) для захисту форпосту та ліквідації ворожих сил.
 
-Primary Target: Enemy troops and vehicles attacking the outpost.
+Основна ціль: ворожі війська та транспортні засоби атакують форпост.
 
-Secondary Target: Enemy reinforcements arriving in the area.
+Додаткова ціль: підкріплення ворога, що прибуває в цей район.
 
-ROE: Weapons Free for confirmed hostile targets.
+ROE: Вогонь дозволено по підтверджених ворожих цілях.
 
-Threats: Enemy anti-aircraft artillery (AAA) and surface-to-air missiles (SAMs) in the area. 
-Possible air superiority of the enemy forces.
+Загрози: зенітно-повітряна артилерія (ППО) та ракети (ЗРК) противника в цьому районі.
+Можлива перевага сил противника в повітрі.
 ]]

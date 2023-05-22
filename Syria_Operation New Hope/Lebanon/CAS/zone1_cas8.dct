@@ -5,15 +5,15 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy moving to our airport. Our recon squad surrounded on the north of the airbase
+Ситуація: ворог рухається до нашого аеропорту. Наш розвідвідділ оточений на півночі авіабази
 
-Objective: Provide close air support to our recon squad, prevent enemy forces from overrunning them, and allow them to safely withdraw from the area.
+Мета: надати безпосередню підтримку з повітря нашому розвідувальному загону, не дати ворожим силам захопити їх і дозволити їм безпечно відійти з цього району.
 
-Primary Target: Enemy infantry positions and vehicles around the recon squad
+Основна ціль: позиції ворожої піхоти та транспортні засоби навколо розвідувального загону
 
-Secondary Target: Any enemy reinforcements attempting to move towards the area
+Додаткова ціль: будь-яке підкріплення противника, яке намагається просуватися до цього району
 
-ROE: Weapons Free, but ensure the safety of friendly forces and civilians in the area
+ROE: зброя вільна, але забезпечте безпеку дружніх сил та цивільного населення в районі
 
-Threats: Enemy small arms fire, anti-aircraft weapons, possible enemy air support, and civilian presence in the area.
+Загрози: ворожий вогонь зі стрілецької зброї, протиповітряні засоби, можлива підтримка противника з повітря та присутність цивільного населення в цьому районі.
 ]]

@@ -4,11 +4,11 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy forces have entered the UN Buffer Zone and are potentially preparing for an attack. 
-The exact size and composition of the force is unknown, but it is believed to include both infantry and armored units. 
+Ситуація: сили противника увійшли в буферну зону ООН і потенційно готуються до нападу.
+Точний розмір і склад сил невідомі, але вважається, що вони включають як піхоту, так і бронетехніку.
 
-Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy forces in the UN Buffer Zone. 
-Identify their location, size, and composition. 
+Мета: провести збройну розвідку для збору розвідданих про ворожі сили в буферній зоні ООН.
+Визначте їх розташування, розмір і склад.
 
-Threats: The enemy forces are likely to have a range of anti-aircraft and anti-tank weapons, including man-portable air defense systems (MANPADS) and rocket-propelled grenades (RPGs).
+Загрози: ворожі сили, ймовірно, матимуть низку зенітних і протитанкових засобів, включаючи переносні зенітно-ракетні комплекси (ПЗРК) і реактивні гранатомети (РПГ).
 ]]

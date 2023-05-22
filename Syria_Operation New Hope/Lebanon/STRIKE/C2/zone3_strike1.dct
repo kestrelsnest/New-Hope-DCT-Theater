@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 5
 desc = [[
-Situation: A critical enemy communications facility has been identified and needs to be destroyed. 
-The facility is located in a remote area, but is expected to be heavily guarded.
+Ситуація: виявлено критичний об’єкт зв’язку противника, який необхідно знищити.
+Об’єкт розташований у віддаленій місцевості, але очікується посилена охорона.
 
-Objective: The objective of this mission is to destroy the communications facility and disrupt the enemy's ability to communicate and coordinate its military operations.
+Мета: мета цієї місії — знищити засоби зв’язку та порушити здатність противника спілкуватися та координувати свої військові дії.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

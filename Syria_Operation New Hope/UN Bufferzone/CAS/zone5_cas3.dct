@@ -4,18 +4,18 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Our outpost on the UN Buffer Zone Border is under heavy enemy attack. 
-Enemy forces have managed to breach our defenses and are attempting to overrun the position.
+Ситуація: наш форпост на кордоні буферної зони ООН піддається сильній атаці ворога.
+Ворожим силам вдалося прорвати нашу оборону та намагаються захопити позиції.
 
-Objective: Provide close air support to our ground forces at the outpost and help repel the enemy attack.
+Завдання: надати безпосередню авіаційну підтримку нашим наземним військам на заставі та допомогти відбити атаку противника.
 
-Primary Target: Enemy infantry and armor positions that are threatening our forces.
+Основна ціль: ворожі позиції піхоти та бронетехніки, які загрожують нашим силам.
 
-Secondary Target: Enemy reinforcements that may be approaching the area.
+Додаткова ціль: підкріплення противника, які можуть наближатися до району.
 
-ROE: Weapons Free on all enemy targets that are directly threatening our ground forces. 
-Use precision-guided munitions when possible to minimize collateral damage.
+ROE: Використання зброї дозволено на всіх ворожих цілях, які безпосередньо загрожують нашим наземним силам.
+За можливості використовуйте високоточні боєприпаси, щоб мінімізувати побічний збиток.
 
-Threats: The enemy has deployed anti-aircraft artillery and surface-to-air missiles in the area, which may pose a threat to our aircraft. 
-The presence of civilian populations in the area also requires careful consideration when selecting targets.
+Загрози: у цьому районі противник застосував зенітну артилерію та ракети «земля-повітря», що може загрожувати нашій авіації.
+Присутність цивільного населення в цьому районі також вимагає ретельного розгляду при виборі цілей.
 ]]

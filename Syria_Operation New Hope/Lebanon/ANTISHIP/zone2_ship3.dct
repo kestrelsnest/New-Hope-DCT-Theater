@@ -4,8 +4,9 @@ cost = 15
 ondemand = true
 coalition = 1
 desc = [[
-Situation: A cargo ship group has been detected waiting to dock at an enemy port.
+Ситуація: виявлено групу вантажних кораблів, які чекають швартування у ворожому порту.
 
-Objective: The objective of this mission is to prevent the cargo ships from unloading their supplies at the enemy port.
+Мета: не дозволити вантажним кораблям розвантажувати свої запаси у ворожому порту.
 
-Threats: The cargo ships may be protected by enemy naval vessels and anti-ship defenses at the port. The exact level of protection is currently unknown.]]
+Загрози: вантажні кораблі можуть бути захищені військово-морськими кораблями та протикорабельними засобами захисту в порту. Точний рівень захисту наразі невідомий.
+]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 6
 desc = [[
-Situation: A large enemy industrial complex has been identified as a critical target. 
-The complex is believed to be heavily guarded and protected by enemy forces.
+Ситуація: великий промисловий комплекс противника визначено як критичну ціль.
+Вважається, що комплекс посилено охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the industrial complex and disrupt the enemy's ability to produce critical materials and equipment.
+Мета: мета цієї місії — знищити промисловий комплекс і порушити здатність ворога виробляти важливі матеріали та обладнання.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

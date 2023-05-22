@@ -4,9 +4,9 @@ coalition = 1
 cost = 20
 priority = 10
 desc = [[
-Situation: Our intelligence has confirmed the presence of an EWR at Beirut Airport. 
+Ситуація: наша розвідка підтвердила наявність EWR в аеропорту Бейрута.
 
-Objective: The objective is to eliminate the EWR without getting shot down by enemy air defenses.
+Мета: знищити EWR, не будучи збитим засобами ППО противника.
 
-Threats: Enemy air defenses, including SAM sites and fighter aircraft.
+Загрози: протиповітряна оборона противника, включно з ЗРК і винищувачами.
 ]]

@@ -6,9 +6,9 @@ priority = 1
 regenerate = true
 spawnalways = true
 desc = [[
-Situation: The enemy has fortified a key position with a SA-5 SAM site, making it difficult for our forces to advance.
+Ситуація: ворог укріпив ключову позицію за допомогою ЗРК SA-5, що ускладнює просування наших сил.
 
-Objective: Conduct a SEAD mission to destroy the SA-5 SAM site and weaken the enemy's defensive position.
+Мета: виконати місію SEAD, щоб знищити місце розташування ЗРК SA-5 і послабити оборонну позицію противника.
 
-Threats: The SA-5 SAM site is well defended and surrounded by additional AAA and other SAM sites, and there may be enemy fighter jets in the area.
+Загрози: місце розміщення ЗРК SA-5 добре захищене та оточене додатковими пунктами ППО та іншими ЗРК, у цьому районі можуть бути ворожі винищувачі.
 ]]

@@ -5,9 +5,9 @@ cost = 25
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has established a well-defended SA-2 SAM site on a key supply route.
+Ситуація: ворог встановив добре захищений пункт ЗРК SA-2 на ключовому шляху постачання.
 
-Objective: Destroy the SA-2 SAM site to disrupt the enemy's supply chain.
+Мета: знищити сайт ЗРК SA-2, щоб порушити ланцюжок постачання ворога.
 
-Threats: AAA, other SAM sites, potential ambushes by ground forces.
+Загрози: ЗРК, інші пункти ЗРК, можливі засідки наземних сил.
 ]]

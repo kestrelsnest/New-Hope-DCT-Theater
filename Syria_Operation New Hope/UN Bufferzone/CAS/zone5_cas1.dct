@@ -4,19 +4,19 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Our outpost on the UN Buffer Zone Border is under heavy attack by enemy forces. 
-The enemy has breached the perimeter and is advancing on our position with infantry and armored vehicles.
+Ситуація: наш форпост на кордоні буферної зони ООН піддається сильній атаці ворожих сил.
+Противник прорвав периметр і наступає на наші позиції піхотою та бронетехнікою.
 
-Objective: Our objective is to provide close air support to our ground troops and neutralize the enemy threat.
+Мета: наша мета — надати безпосередню підтримку з повітря нашим наземним військам і нейтралізувати загрозу противника.
 
-Primary Target: Enemy armored vehicles and infantry advancing on our position.
+Основна ціль: бронетехніка та піхота противника, що наступають на нашу позицію.
 
-Secondary Target: Enemy artillery positions and anti-aircraft defenses.
+Другорядна ціль: артилерійські позиції противника та протиповітряна оборона.
 
-ROE: Weapons Free on all designated targets.
-We must prioritize the protection of our ground troops and limit collateral damage to nearby civilian areas.
+ROE: Вогонь дозволено по ідентифікованим цілям.
+Ми повинні надати пріоритет захисту наших сухопутних військ і обмежити супутню шкоду прилеглим цивільним районам.
 
-Threats: The enemy has deployed anti-aircraft defenses and may have fighter jets in the area.
-We can also expect heavy ground fire from enemy infantry and armored vehicles. 
-We must remain alert and coordinate with our ground troops to avoid friendly fire incidents.
+Загрози: ворог розгорнув протиповітряну оборону та може мати в цьому районі винищувачі.
+Також можна очікувати щільний наземний вогонь з боку піхоти та бронетехніки противника.
+Ми повинні залишатися напоготові та координувати дії з нашими наземними військами, щоб уникнути інцидентів із дружнім вогнем.
 ]]

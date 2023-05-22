@@ -4,20 +4,20 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: The enemy is attacking our outpost and our friendly forces are waiting for extraction. 
-The enemy has deployed heavy weapons and has started to close in on our position. 
-We need to provide close air support to neutralize the enemy and allow our troops to evacuate safely.
+Ситуація: ворог атакує наш форпост, і наші дружні сили чекають виходу.
+Противник розгорнув важке озброєння та почав наближатися до наших позицій.
+Нам необхідно надати безпосередню підтримку з повітря, щоб нейтралізувати ворога та дозволити нашим військам безпечно евакуюватися.
 
-Objective: Our primary objective is to neutralize the enemy forces attacking our outpost and provide cover for our friendly troops to evacuate. 
+Мета: наша основна мета — нейтралізувати ворожі сили, які атакують наш форпост, і забезпечити прикриття для евакуації наших дружніх військ.
 
-Primary Target: The primary target is the enemy forces attacking our outpost. 
-We need to neutralize them to ensure the safety of our troops and allow for the evacuation process.
+Основна ціль: головною ціллю є ворожі сили, які атакують наш форпост.
+Нам потрібно нейтралізувати їх, щоб забезпечити безпеку наших військ і забезпечити процес евакуації.
 
-Secondary Target: EVAC freindly units to Rosh Pina Airbase (optional)
+Додаткова ціль: евакуаційні підрозділи до авіабази Рош-Піна (необов’язково)
 
-ROE: Weapons free. We have been authorized to use any means necessary to protect our friendly forces and neutralize the enemy.
+ROE: Вогонь дозволено. Ми отримали дозвіл використовувати будь-які засоби, необхідні для захисту наших дружніх сил і нейтралізації ворога.
 
-Threats: The enemy has heavy weapons and is closing in on our position. 
-They may also have anti-aircraft weapons that could pose a threat to our aircraft. 
-We need to stay alert and take necessary precautions to ensure mission success.
+Загрози: Ворог має важке озброєння та наближається до наших позицій.
+У них також може бути зенітна зброя, яка може становити загрозу нашій авіації.
+Нам потрібно бути пильними та вживати необхідних заходів, щоб забезпечити успіх місії.
 ]]

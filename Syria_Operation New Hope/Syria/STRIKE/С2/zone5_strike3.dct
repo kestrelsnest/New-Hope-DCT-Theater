@@ -5,10 +5,10 @@ cost = 25
 coalition = 1 
 priority = 10
 desc = [[
-Situation: The enemy's primary TV center, which is being used to broadcast propaganda to their troops and the civilian population, has been identified. 
-It is heavily defended with a large number of troops and anti-aircraft defenses.
+Ситуація: Виявлено основний телевізійний центр противника, який виступає агітаційним центром для їніх військ та цивільного населення.
+Він сильно захищений великою кількістю військ і засобів протиповітряної оборони.
 
-Objective: The objective of this mission is to destroy the TV center and disrupt the enemy's ability to broadcast propaganda.
+Мета: Мета цієї місії — знищити телевізійний центр.
 
-Threats: The TV center is heavily defended by a large number of troops and anti-aircraft defenses.
+Загрози: телецентр посилено захищений великою кількістю військ і протиповітряної оборони.
 ]]

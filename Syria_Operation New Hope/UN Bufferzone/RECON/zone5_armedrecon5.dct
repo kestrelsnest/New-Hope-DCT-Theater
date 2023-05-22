@@ -4,17 +4,17 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Enemy supply trucks have been spotted on the factory located next to the UN Buffer Zone Border. 
-This indicates that the enemy is using the factory as a hub for supplying their troops with weapons and ammunition.
+Ситуація: на заводі, розташованому поруч із кордоном буферної зони ООН, помічено ворожі вантажівки з постачанням.
+Це свідчить про те, що ворог використовує фабрику як центр постачання своїх військ зброєю та боєприпасами.
 
-Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy supply trucks and their activities at the factory.
+Мета: провести місію збройної розвідки, щоб зібрати розвідувальні дані про ворожі вантажівки з постачанням та їхню діяльність на фабриці.
 
-Primary Target: Observe and collect intel on the enemy supply trucks and their activities at the factory.
+Основна мета: спостерігати та збирати інформацію про ворожі вантажівки постачання та їхню діяльність на фабриці.
 
-Secondary Target: Identify any other enemy activities in the surrounding area and report them back to command.
+Другорядна ціль: визначте будь-яку іншу ворожу діяльність в околицях і повідомте про це командуванню.
 
-ROE: Weapons Free. Engage enemy targets if necessary for self-defense or to accomplish mission objectives.
+ROE: Вільна зброя. Вражайте ворожі цілі, якщо це необхідно для самооборони або для досягнення цілей місії.
 
-Threats: The enemy may have a heavily armed and fortified perimeter around the factory, and there may be additional enemy forces in the area. 
-It is also possible that the enemy may have anti-aircraft or anti-tank weapons that could pose a threat to reconnaissance aircraft or ground forces.
+Загрози: Ворог може мати добре озброєний і укріплений периметр навколо фабрики, і в цьому районі можуть бути додаткові сили противника.
+Також можлива наявність у противника зенітних або протитанкових засобів, які можуть становити загрозу для розвідувальної авіації або наземних військ.
 ]]

@@ -5,10 +5,10 @@ cost = 15
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has deployed multiple SA-2 SAM sites in the region, posing a significant threat to our air operations. 
-Intel has identified one such site near the coast, and we need to take it out to ensure air superiority.
+Ситуація: ворог розгорнув у цьому регіоні численні ЗРК SA-2, створюючи значну загрозу нашим повітряним операціям.
+Наша розвідка визначила одну з таких ділянок поблизу узбережжя, і нам потрібно її ліквідувати, щоб забезпечити перевагу в повітрі.
 
-Objective: Destroy the SA-2 SAM site near the coast.
+Мета: знищити місце розташування ЗРК SA-2 поблизу узбережжя.
 
-Threats: AAA, other SAM sites.
+Загрози: AAA, інші пункти SAM.
 ]]

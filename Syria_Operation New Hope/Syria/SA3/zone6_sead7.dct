@@ -5,9 +5,9 @@ cost = 20
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has established several SA-3 SAM sites in the target area, making it nearly impossible for our aircraft to operate in the airspace.
+Ситуація: Ворог встановив кілька пунктів ЗРК SA-3 в районі цілі, що практично унеможливило роботу наших літаків у повітряному просторі.
 
-Objective: Eliminate the SA-3 SAM sites to regain control of the airspace.
+Мета: знищити місце розташування ЗРК SA-3, щоб відновити контроль над повітряним простором.
 
-Threats: AAA, MANPADS, other SAM sites.
+Загрози: ЗРК, ПЗРК, інші сайти ЗРК.
 ]]

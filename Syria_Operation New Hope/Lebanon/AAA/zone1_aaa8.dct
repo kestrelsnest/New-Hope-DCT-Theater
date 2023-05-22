@@ -4,10 +4,10 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: Intelligence reports indicate a AAA installation in the heart of hostile territory. 
-This is a crucial facility for the enemy's air defense network and needs to be destroyed.
+Ситуація: звіти розвідки вказують на установку ППО в центрі ворожої території.
+Це важливий об’єкт для системи протиповітряної оборони противника, який необхідно знищити.
 
-Objective: Strike the enemy AAA installation and eliminate its ability to track friendly aircraft.
+Завдання: вразити ворожу установку ЗРК і позбавити її здатності стежити за літаками союзників.
 
-Threats: Multiple AAA emplacements are expected to be in the area, along with the possibility of enemy fighter aircraft.
+Загрози. Очікується, що в цьому районі буде кілька пунктів ППО, а також можлива наявність винищувачів ворога.
 ]]

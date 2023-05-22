@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 8
 desc = [[
-Situation: An important enemy military logistics center has been identified as a key target. 
-The facility is believed to be well guarded and protected by enemy forces.
+Ситуація: важливий військовий логістичний центр противника визначено як ключову ціль.
+Вважається, що об’єкт добре охороняється та захищається ворожими силами.
 
-Objective: The objective of this mission is to destroy the logistics center and disrupt the enemy's ability to supply its military operations.
+Мета: мета цієї місії — знищити центр матеріально-технічного забезпечення та порушити здатність ворога забезпечити свої військові операції.
 
-Threats: AAA and other enemy ground forces are expected in the area.
+Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
 ]]

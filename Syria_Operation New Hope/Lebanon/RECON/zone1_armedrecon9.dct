@@ -4,16 +4,16 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: The enemy has been spotted in the forest near our border, potentially planning an attack.
+Ситуація: Ворожі сили помічені у лісі біля нашого кордону, можливо, плануючи напад.
 
-Objective: Conduct armed reconnaissance of the area to gather intel on enemy activity and report back to command.
+Мета: Провести збройну розвідку місцевості для збору інформації про ворожу діяльність і доповісти командуванню.
 
-Primary Target: Locate and observe enemy movements, including the size and composition of their forces, as well as any equipment or vehicles they may be using.
+Основна мета: Виявити та спостерігати за рухами ворожих сил, включаючи розмір та склад їхніх військ, а також будь-яке обладнання чи транспортні засоби, якими вони користуються.
 
-Secondary Target: Identify any potential defensive positions or obstacles that the enemy may be setting up.
+Вторинна ціль: визначте будь-які потенційні оборонні позиції або перешкоди, які може встановити противник.
 
-ROE: Weapons Free. Engage any enemy targets that pose a threat to your team or friendly forces in the area.
+ROE: Вільне використання зброї. Взаємодіяти з будь-якими ворожими цілями, що становлять загрозу для вашої команди або дружніх сил в області.
 
-Threats: The enemy is likely heavily armed and prepared for an attack, so be cautious of potential ambushes or traps. 
-The forest terrain may also present challenges for navigation and communication, so be prepared to adapt to changing conditions.
+Загрози: Імовірно, ворог сильно озброєний і готовий до нападу, тому будьте обережними щодо можливих засідок або пасток.
+Лісовий рельєф також може створювати виклики для навігації та зв'язку, тому будьте готові адаптуватися до мінливих умов.
 ]]

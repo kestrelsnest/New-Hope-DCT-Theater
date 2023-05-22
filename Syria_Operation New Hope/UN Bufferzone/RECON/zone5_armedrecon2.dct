@@ -4,16 +4,16 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: A hostile enemy convoy has been spotted in the UN Buffer Zone, posing a potential threat to international peace and security.
+Ситуація: у буферній зоні ООН помічено ворожий конвой, що становить потенційну загрозу міжнародному миру та безпеці.
 
-Objective: Conduct armed reconnaissance of the enemy convoy and gather information on their intentions and capabilities.
+Мета: Здійснити збройну розвідку колони противника та отримати інформацію про його наміри та можливості.
 
-Primary Target: The lead vehicle of the enemy convoy.
+Основна ціль: головна машина ворожого конвою.
 
-Secondary Target: Any high-value targets identified during the mission.
+Другорядна ціль: будь-які важливі цілі, виявлені під час місії.
 
-ROE: Weapons Free. Engage any targets that pose a threat to your team or the mission.
+ROE: Вільний вогонь. Вражайте будь-які цілі, які становлять загрозу для вашої команди або місії.
 
-Threats: The enemy convoy is likely to be heavily armed and defended, with potential threats including anti-aircraft weapons, ground vehicles, and hostile ground troops. 
-Remain alert and use caution when approaching the convoy.
+Загрози: ворожий конвой, ймовірно, буде добре озброєний і захищений, потенційні загрози включають зенітну зброю, наземну техніку та ворожі наземні війська.
+Будьте пильні та обережні, наближаючись до колони.
 ]]

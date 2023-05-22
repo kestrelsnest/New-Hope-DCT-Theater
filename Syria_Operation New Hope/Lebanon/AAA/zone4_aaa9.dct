@@ -4,9 +4,9 @@ cost = 6
 priority = 50
 ignore = true
 desc = [[
-Situation: The enemy has established an AAA position on a key hilltop overlooking a strategic valley. There are no friendly forces in the immediate area, but there may be other potential enemy ground forces.
+Ситуація: ворог розгорнув позицію ППО на ключовій вершині пагорба з видом на стратегічну долину. У безпосередній зоні немає дружніх сил, але можуть бути наземні сили іншого потенційного ворога.
 
-Objective: Conduct a precision strike on the AAA position to prevent the enemy from denying access to the valley.
+Мета: нанести точний удар по позиції ППО, щоб не дати противнику перекрити доступ до долини.
 
-Threats: Heavy AAA fire, potential enemy ground forces in the area.
+Загрози: потужний зенітний вогонь, наземні сили потенційного противника в цьому районі.
 ]]

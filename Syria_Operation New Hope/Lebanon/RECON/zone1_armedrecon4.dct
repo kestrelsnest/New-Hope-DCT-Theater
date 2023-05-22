@@ -3,9 +3,9 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: Our industrial facility in the region has been under threat from enemy forces.
+Ситуація: Наш промисловий об'єкт у регіоні перебуває під загрозою з боку ворожих сил.
 
-Objective: Conduct armed reconnaissance of the area to identify enemy positions and movements, and eliminate any enemy units in the vicinity of the industrial facility to secure our operations.
+Завдання: Провести збройну розвідувальну місію в області для виявлення позицій та рухів ворожих сил та ліквідації будь-яких ворожих одиниць у непосредственній близькості від промислового об'єкту для забезпечення безпеки наших операцій.
 
-Threats: The area is heavily defended by enemy troops and armored units, and is protected by anti-aircraft artillery and other air defenses. Approach with caution and be prepared for heavy resistance.
+Загрози: Область сильно захищена ворожими військами та бронетехнікою, а також захищена протиповітряними гарматами та іншими системами ППО. Підходьте з обережністю та будьте готові до сильного опору.
 ]]

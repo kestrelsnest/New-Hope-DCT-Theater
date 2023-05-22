@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy is using a nearby airbase to launch attacks against friendly forces. 
-We must take out the enemy air assets on the ground to limit their ability to strike at our troops.
+Ситуація: ворог використовує сусідню авіабазу для нападу на союзні сили.
+Ми повинні вивести з ладу ворожу авіацію, щоб обмежити їх здатність наносити удари по наших військах.
 
-Objective: Locate and destroy enemy aircraft and airfield infrastructure.
+Мета: знайти та знищити ворожу авіацію на стоянках а також інфраструктуру аеродрому.
 
-Threats: AAA, possible enemy air cover, enemy ground forces.
+Загрози: ППО, можливе повітряне прикриття противника, наземні сили противника.
 ]]

@@ -1,6 +1,6 @@
 objtype = "airbase"
 name = "Bassel Al-Assad"
-desc = "Bassel Al-Assad"
+desc = "Басель Аль-Асад"
 coalition = 1
 subordinates = {
  

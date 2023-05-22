@@ -4,16 +4,16 @@ coalition = 1
 cost = 20
 priority = 8
 desc = [[
-Situation: The enemy has been stockpiling ammunition in a hidden facility
+Ситуація: ворог накопичував боєприпаси в прихованому об’єкті
 
-Objective: Destroy the ammunition storage facility to deny the enemy access to their weapons
+Мета: знищити сховище боєприпасів, щоб позбавити противника доступу до зброї
 
-Primary Target: The ammunition storage facility, identified by satellite imagery
+Основна ціль: склад боєприпасів, визначений супутниковими знімками
 
-Secondary Target: Any enemy forces or vehicles guarding the facility, identified by surveillance drones
+Додаткова ціль: будь-які ворожі сили або транспортні засоби, які охороняють об’єкт, ідентифіковані дронами спостереження
 
-ROE: Weapons Free
+ROE: Вогонь дозволено
 
-Threats: Enemy forces may be heavily armed and may have air defense systems in place to protect the facility. 
-Be prepared for potential counterattacks and take appropriate precautions to avoid friendly fire incidents.
+Загрози: сили противника можуть бути добре озброєні та мати системи протиповітряної оборони для захисту об’єкта.
+Будьте готові до можливих контратак і вживайте відповідних заходів, щоб уникнути випадків дружнього вогню.
 ]]

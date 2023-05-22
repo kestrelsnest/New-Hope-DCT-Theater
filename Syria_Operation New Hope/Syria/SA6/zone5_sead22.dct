@@ -5,10 +5,10 @@ cost = 25
 priority = 10
 regenerate = true
 desc = [[
-Situation: Our recon aircraft have identified multiple SA-6 SAM sites in the area, which pose a serious threat to our air operations. 
-We need to neutralize these SAM sites before launching further air strikes.
+Ситуація: наш літак-розвідник виявив у цьому районі кілька місць розташування ЗРК SA-6, які становлять серйозну загрозу для наших повітряних операцій.
+Нам потрібно нейтралізувати ці об’єкти ЗРК перед нанесенням подальших авіаударів.
 
-Objective: Target and destroy the identified SA-6 SAM sites.
+Мета: націлити та знищити ідентифіковані пункти ЗРК SA-6.
 
-Threats: AAA and other SAM sites.
+Загрози: AAA та інші сайти SAM.
 ]]

@@ -5,15 +5,15 @@ cost = 20
 coalition = 1 
 priority = 7
 desc = [[
-Situation: Enemy Power Plant facility
+Ситуація: об’єкт «Електростанція противника».
 
-Objective: Destroy the facility and eliminate all enemy personnel
+Мета: знищити об'єкт і знищити весь ворожий персонал
 
-Primary Target: The main research building and all its contents
+Основна ціль: головна дослідницька будівля
 
-Secondary Target: Any enemy personnel attempting to flee the area
+Другорядна ціль: будь-який ворожий персонал, який намагається втекти з області
 
-ROE: Weapons Free
+ROE: Вогонь дозволено
 
-Threats: Enemy soldiers, armed security personnel, and possible booby traps or explosives within the facility.
+Загрози: ворожі солдати, озброєний персонал служби безпеки та можливі міни-пастки або вибухівка на об’єкті.
 ]]

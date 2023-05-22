@@ -4,10 +4,10 @@ coalition = 1
 cost = 25
 priority = 10
 desc = [[
-Situation: Our aircraft are coming under heavy fire from enemy SAM Sites in the area, making it difficult to operate. 
-We need to locate and neutralize these threats to regain control of the airspace.
+Ситуація: наші літаки потрапляють під сильний вогонь з ворожих ЗРК у цьому районі, що ускладнює роботу.
+Нам потрібно знайти та нейтралізувати ці загрози, щоб відновити контроль над повітряним простором.
 
-Objective: Locate and destroy all identified EWR SAM Sites in the area to regain control of the airspace.
+Мета: знайти та знищити всі ідентифіковані місця ЗРК EWR у цьому районі, щоб відновити контроль над повітряним простором.
 
-Threats: Unknown, potential AAA and other ground-based defenses.
+Загрози: невідомі, потенційні протиракетні та інші засоби наземного захисту.
 ]]

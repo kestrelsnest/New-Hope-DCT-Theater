@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy has set up a command and control center in a fortified compound. 
-This center is directing enemy forces in the area and must be eliminated to disrupt enemy operations.
+Ситуація: противник облаштував пункт управління в укріпленому місці.
+Цей центр керує ворожими силами в цьому районі, і його необхідно ліквідувати, щоб перешкодити ворожим операціям.
 
-Objective: Locate and destroy the enemy forces protecting the Command and Control Center.
+Мета: знайти та знищити ворожі сили, які захищають командний центр.
 
-Threats: AAA, enemy ground forces.
+Загрози: ППО, наземні сили противника.
 ]]

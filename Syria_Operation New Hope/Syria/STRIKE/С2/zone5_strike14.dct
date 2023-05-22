@@ -5,10 +5,10 @@ cost = 25
 coalition = 1 
 priority = 10
 desc = [[
-Situation: The enemy has established a Command Center at Hama Airport. 
-The Command Center is heavily guarded by enemy troops and anti-aircraft defenses.
+Ситуація: ворог створив командний центр в аеропорту Хама.
+Командний центр посилено охороняється ворожими військами та засобами протиповітряної оборони.
 
-Objective: The objective of this mission is to destroy the Command Center and disrupt the enemy's ability to coordinate their military operations.
+Мета: мета цієї місії — знищити командний центр і порушити здатність ворога координувати свої військові дії.
 
-Threats: The Command Center is located at Hama Airport and heavily guarded by enemy troops and anti-aircraft defenses.
+Загрози: Командний центр розташований в аеропорту Хама і посилено охороняється ворожими військами та засобами протиповітряної оборони.
 ]]

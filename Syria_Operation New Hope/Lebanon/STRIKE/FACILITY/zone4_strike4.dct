@@ -5,17 +5,17 @@ cost = 20
 coalition = 1 
 priority = 7
 desc = [[
-Situation: The enemy has established a research facility in a remote location, suspected of developing advanced weaponry.
+Ситуація: ворог створив дослідницький центр у віддаленому місці, підозрюваний у розробці передової зброї.
 
-Objective: Neutralize the research facility and destroy any research materials or equipment.
+Мета: нейтралізувати дослідницький центр і знищити будь-які дослідницькі матеріали чи обладнання.
 
-Primary Target: The main building of the research facility, where the majority of the research and development is being conducted.
+Основна ціль: головна будівля науково-дослідної установи, де проводиться більшість досліджень і розробок.
 
-Secondary Target: Any satellite buildings or structures that may be involved in the development of the weaponry.
+Вторинна ціль: будь-які будівлі або споруди-супутники, які можуть брати участь у розробці зброї.
 
-ROE: Weapons Free
+ROE: Вогонь дозволено
 
-Threats: The enemy forces at the facility are heavily armed and may have access to advanced weaponry. 
-There may also be traps or explosive devices set up around the facility. 
-Additionally, the facility may be protected by anti-aircraft defenses, so caution must be exercised during any aerial operations.
+Загрози: ворожі сили на об’єкті добре озброєні та можуть мати доступ до передової зброї.
+Навколо закладу також можуть бути встановлені пастки або вибухові пристрої.
+Крім того, об’єкт може бути захищений засобами протиповітряної оборони, тому необхідно бути обережними під час будь-яких повітряних операцій.
 ]]

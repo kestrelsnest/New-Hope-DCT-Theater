@@ -3,10 +3,10 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: %LOCATIONMETHOD% enemy forces may be gathering in a designated area. Our ground forces have advanced into a designated area and require reconnaissance support to identify potential enemy positions and assess the terrain.
+Ситуація: %LOCATIONMETHOD% ворожі сили можуть збиратися у визначеному районі. Наші сухопутні війська вийшли у визначений район і потребують розвідувальної підтримки для виявлення позицій потенційного противника та оцінки місцевості.
 
-Objective: Conduct an armed reconnaissance mission to identify and locate any potential enemy positions and assess the terrain in the designated area.
-You are authorized to engage any enemy forces that pose a threat to friendly forces or are actively engaging friendly forces.
+Завдання: Провести збройну розвідувальну місію для виявлення локацій можливих позицій ворога та оцінки території в позначеній області.
+Вам надано дозвіл на ведення вогню по будь-яким ворожим силам, які становлять загрозу для дружніх військ або активно атакують дружні сили.
 
-Threats: The area of operation is unknown and may contain a range of potential threats, including enemy ground forces, air defenses.
+Загрози: Область дії невідома і може містити різноманітні потенційні загрози, включаючи ворожі наземні сили та ППО
 ]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: The enemy is using a nearby mountain pass to move troops and supplies. 
-We must interdict their movements and disrupt their ability to reinforce their forces.
+Ситуація: ворог використовує сусідній гірський перевал для переміщення військ і припасів.
+Ми повинні завадити їхньому пересуванню та здатності зміцнювати свої сили.
 
-Objective: Locate and attack enemy forces moving through the mountain pass.
+Мета: знайти та атакувати ворожі сили, що рухаються через гірський перевал.
 
-Threats: AAA, possible enemy air cover, enemy ground forces.
+Загрози: ППО, можливе повітряне прикриття противника, наземні сили противника.
 ]]

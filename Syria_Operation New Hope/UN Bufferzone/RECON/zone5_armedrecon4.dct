@@ -4,12 +4,12 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Recent reconnaissance has identified a significant enemy buildup on the other side of our border. 
-The enemy forces appear to be preparing for an invasion, and there are indications that they may be using some new weapon systems.
+Ситуація: нещодавня розвідка виявила значне нарощування противника по той бік нашого кордону.
+Ворожі сили, схоже, готуються до вторгнення, і є ознаки того, що вони можуть використовувати деякі нові системи зброї.
 
-Objective: Conduct an armed reconnaissance mission to gather intelligence on the enemy forces and their capabilities. 
-Identify the enemy weapon systems and any other significant information that can be used to prepare for a possible invasion.
+Мета: провести збройну розвідку для збору розвідданих про ворожі сили та їхні можливості.
+Визначте системи озброєння противника та будь-яку іншу важливу інформацію, яка може бути використана для підготовки до можливого вторгнення.
 
-Threats: The area is heavily defended with a variety of anti-aircraft and other defensive systems. 
-The enemy may also have patrols and reconnaissance units in the area, and there is a risk of engagement with ground forces.
+Загрози: територія добре захищена різноманітними протиповітряними та іншими оборонними системами.
+Противник також може мати патрулі та розвідувальні підрозділи в цьому районі, і існує ризик ведення бою з наземними силами.
 ]]

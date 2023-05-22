@@ -4,10 +4,10 @@ coalition = 1
 cost = 25
 priority = 10
 desc = [[
-Situation: Enemy forces have recently established a fortified airfield in our area of operations. 
-This airfield is a major hub for enemy aircraft, and as such, poses a significant threat to our forces.
+Ситуація: Ворожі сили нещодавно створили укріплений аеродром у районі нашої операції.
+Цей аеродром є основним вузлом для авіації противника, і становить значну загрозу для наших сил.
 
-Objective: The objective of this OCA mission is to launch a coordinated attack on the airfield, targeting both enemy aircraft and ground infrastructure.
+Мета: мета цієї місії OCA полягає в тому, щоб почати скоординовану атаку на аеродром, націлившись як на літаки противника, так і на наземну інфраструктуру.
 
-Threats: The airfield is heavily defended by AAA emplacements and SAM sites, as well as enemy fighter aircraft. Intelligence reports indicate that the airfield may also be home to various types of armored vehicles.
+Загрози: аеродром посилено захищений вогневими точками зенітно-ракетних комплексів і ЗРК, а також винищувачами противника. За даними розвідки, аеродром також може бути місцем базування для різних типів бронетехніки.
 ]]

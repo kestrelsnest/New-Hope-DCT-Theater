@@ -5,10 +5,10 @@ cost = 15
 priority = 6
 regenerate = true
 desc = [[
-Situation: Our aircraft have been coming under attack from an SA-6 SAM site in the region. 
-We need to take out this site to ensure the safety of our pilots.
+Ситуація: наші літаки зазнали атаки з боку ЗРК SA-6 у цьому регіоні.
+Нам потрібно ліквідувати його, щоб забезпечити безпеку наших пілотів.
 
-Objective: Target and destroy the SA-6 SAM site that is targeting our aircraft.
+Мета: поцілити та знищити ЗРК SA-6, який націлений на наш літак.
 
-Threats: AAA and other SAM sites.
+Загрози: AAA та інші комплекси ППО.
 ]]

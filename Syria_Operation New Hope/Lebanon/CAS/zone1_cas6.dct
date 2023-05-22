@@ -5,14 +5,13 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: Friendlies are holding a strategic position in a the area. 
-They are surrounded by enemy forces, who are closing in on the position. 
-The friendly forces are low on supplies and ammunition, and need immediate support.
+Ситуація: дружні сили утримують стратегічну позицію в районі. Вони оточені ворожими силами, які наближаються до позиції. 
+Дружні сили мають обмежені запаси та боєприпаси і потребують негайної підтримки.
 
-Objective: Provide close air support to the friendly forces at the position. 
-Suppress enemy forces and prevent them from overrunning the friendly position. 
-Provide cover for friendly forces to evacuate any wounded or critically low on supplies.
-Only engage confirmed hostile targets. 
+Мета: надати безпосередню підтримку з повітря дружнім силам на позиції.
+Придушити ворожі сили та не дати їм захопити дружню позицію.
+Забезпечте прикриття дружнім силам для евакуації будь-яких поранених або критично недостатніх запасів.
+Вражайте лише підтверджені ворожі цілі.
 
-Threats: Enemy ground forces, anti-aircraft weapons.
+Загрози: ворожі наземні сили, протиповітряні засоби.
 ]]

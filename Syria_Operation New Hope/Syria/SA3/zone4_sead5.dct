@@ -5,10 +5,10 @@ cost = 15
 priority = 10
 regenerate = true
 desc = [[
-Situation: The enemy has set up a number of SA-3 SAM sites in the area, which are posing a significant threat to our aircraft. 
-We need to take out these sites to establish air superiority in the region.
+Ситуація: у цьому районі ворог встановив декілька пунктів ЗРК SA-3, які становлять значну загрозу нашій авіації.
+Нам потрібно знищити ці пункти, щоб отримати перевагу в повітрі у цьому регіоні.
 
-Objective: Target and destroy the SA-3 SAM sites in the designated area.
+Мета: поцілити та знищити об’єкти ЗРК SA-3 у визначеному районі.
 
-Threats: AAA and other SAM sites.
+Загрози: AAA та інші пункти SAM.
 ]]

@@ -4,9 +4,9 @@ coalition = 1
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have taken up a defensive position at a strategic crossroads, blocking our ground forces from advancing.
+Ситуація: сили ворога зайняли оборонну позицію на стратегічно важливому роздоріжжі, недаючи нашим наземним силам просуватися.
 
-Objective: Conduct a BAI mission to destroy the enemy position and clear the way for our ground forces.
+Мета: виконати місію BAI, щоб знищити ворожу позицію та розчистити шлях для наших сухопутних сил.
 
-Threats: AAA, MANPADS, and ground-based threats.
+Загрози: AAA, ПЗРК і наземні загрози.
 ]]

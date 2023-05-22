@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 10
 desc = [[
-Situation: An EWR has been detected in an enemy-held area on the outskirts of a major city. 
-It is being used to coordinate enemy air defenses and guide their fighter aircraft to engage our aircraft.
+Ситуація: РЕБ виявлено в районі, який утримує противник, на околиці великого міста.
+Він використовується для координації протиповітряної оборони противника та скеровування його винищувачів до бою з нашими літаками.
 
-Objective: The objective is to locate and destroy the EWR while avoiding detection by enemy radar and air defenses.
+Мета: мета полягає в тому, щоб знайти та знищити РЕБ, уникаючи виявлення ворожих радарів і протиповітряної оборони.
 
-Threats: Enemy air defenses, including fighter aircraft, and ground-based air defenses.
+Загрози: протиповітряна оборона противника, включаючи винищувачі, і наземна протиповітряна оборона.
 ]]

@@ -4,10 +4,10 @@ coalition = 1
 cost = 20
 priority = 10
 desc = [[
-Situation: The enemy has deployed several EWR SAM Sites in the area, which are preventing our ground forces from advancing. 
-We need to eliminate these sites to enable our forces to push forward.
+Ситуація: у цьому районі противник розгорнув кілька пунктів ЗРК РЕБ, які перешкоджають просуванню наших сухопутних військ.
+Нам потрібно знищити ці пункти, щоб наші сили могли просуватися вперед.
 
-Objective: Destroy all identified EWR SAM Sites in the area to enable our ground forces to advance.
+Мета: знищити всі ідентифіковані об’єкти ЗРК EWR у цьому районі, щоб дати можливість нашим наземним силам просунутися.
 
-Threats: Unknown, potential AAA and other ground-based defenses.
+Загрози: невідомі, потенційні протиракетні та інші засоби наземного захисту.
 ]]

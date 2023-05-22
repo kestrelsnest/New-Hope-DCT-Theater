@@ -3,11 +3,11 @@ intel = 2
 cost = 5
 ondemand = true
 desc = [[
-Situation: Enemy forces have been spotted near an industrial facility in the designated area. 
-They appear to be gathering supplies and setting up defenses around the perimeter.
+Ситуація: у визначеному районі поблизу промислового об’єкта помічено сили противника.
+Здається, вони збирають припаси та встановлюють оборону по периметру.
 
-Objective: Conduct an armed reconnaissance mission to gather intel on enemy numbers, equipment, and deployment around the facility.
+Мета: провести місію озброєної розвідки, щоб зібрати інформацію про чисельність, обладнання та дислокацію противника навколо об’єкта.
 
-Threats:Enemy anti-aircraft artillery (AAA) and potential air patrols in the area. 
-The enemy may also have armored vehicles and infantry forces in the vicinity.
+Загрози: Протиповітряна артилерійська установка (AAA) ворога і потенційне повітряне патрулювання в цьому районі.
+Поблизу противник може також мати бронетехніку та сили піхоти.
 ]]
