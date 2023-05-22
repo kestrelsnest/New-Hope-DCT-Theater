@@ -4,15 +4,15 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: A hostile convoy carrying supplies has been spotted in the UN Buffer Zone.
+Ситуація: у буферній зоні ООН помічено ворожий конвой із провізією.
 
-Objective: Conduct an armed reconnaissance mission to gather intel on the enemy convoy and its destination.
+Мета: провести збройну розвідку, щоб зібрати інформацію про ворожий конвой і його пункт призначення.
 
-Primary Target: The enemy convoy and its contents.
+Основна ціль: ворожий конвой і його вміст.
 
-Secondary Target: Any enemy forces escorting the convoy.
+Другорядна ціль: будь-які сили противника, що супроводжують конвой.
 
-ROE: Weapons Free, engage any enemy forces that pose a threat to the mission or your team.
+ROE: Weapons Free, воюйте з будь-якими ворожими силами, які становлять загрозу для місії або вашої команди.
 
-Threats: The convoy may be heavily defended with infantry, armored vehicles, and air support. Be aware of potential landmines or improvised explosive devices (IEDs) along the convoy route.
+Загрози: колона може бути сильно захищена піхотою, бронетехнікою та підтримкою з повітря. Будьте в курсі потенційних наземних мін або саморобних вибухових пристроїв (IED) уздовж маршруту конвою.
 ]]

@@ -4,16 +4,16 @@ cost = 5
 ondemand = true
 coalition = 1
 desc = [[
-Situation: The enemy has captured our outpost on the UN Buffer Zone Border, and our friendly forces are taking cover in the nearest industrial area.
+Ситуація: ворог захопив наш форпост на кордоні буферної зони ООН, і наші дружні сили ховаються в найближчій промисловій зоні.
 
-Objective: The objective of this mission is to provide close air support to our friendly forces and eliminate enemy positions that are threatening our troops in the industrial area.
+Мета: ціль цієї місії — надати безпосередню підтримку з повітря нашим дружнім силам і ліквідувати позиції противника, які загрожують нашим військам у промисловій зоні.
 
-Primary Target: The primary targets for this mission are the enemy positions that are firing at our friendly forces in the industrial area.
+Основна ціль: Основними цілями цієї місії є позиції противника, які обстрілюють наші дружні сили в промисловій зоні.
 
-Secondary Target: The secondary targets for this mission are any additional enemy positions that are identified in the surrounding area.
+Другорядна ціль: другорядними цілями для цієї місії є будь-які додаткові ворожі позиції, визначені в околицях.
 
-ROE: Weapons free - engage any targets that pose a threat to our friendly forces.
+ROE: Weapons free - вражайте будь-які цілі, які становлять загрозу нашим дружнім силам.
 
-Threats: The enemy has established strong defensive positions around our captured outpost and may have anti-aircraft weapons that can pose a threat to our aircraft. 
-Additionally, they may have reinforcements en route to the area, so pilots should remain vigilant for any additional threats.
+Загрози: противник зайняв міцні оборонні позиції навколо нашої захопленої застави та може мати зенітну зброю, яка може становити загрозу нашій авіації.
+Крім того, вони можуть мати підкріплення на шляху до цього району, тому пілоти повинні бути пильними щодо будь-яких додаткових загроз.
 ]]
