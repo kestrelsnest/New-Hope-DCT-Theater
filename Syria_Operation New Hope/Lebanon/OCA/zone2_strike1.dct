@@ -1,5 +1,5 @@
 objtype = "oca"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 desc = [[
@@ -8,4 +8,6 @@ desc = [[
 Мета: знищити транспортний літак і порушити здатність противника забезпечити свої військові операції.
 
 Загрози: у цьому районі очікуються ПВО та інші наземні сили противника.
+
+Objective: to destroy the transport aircraft and disrupt the enemy's ability to secure its military operations.
 ]]

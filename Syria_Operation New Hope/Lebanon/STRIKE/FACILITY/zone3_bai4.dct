@@ -1,5 +1,5 @@
 objtype = "facility"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 ondemand = true
@@ -10,4 +10,6 @@ desc = [[
 Мета: очистити контрольно-пропускний пункт і нейтралізувати будь-які ворожі сили в цьому районі.
 
 Загрози: ППО, наземні сили, повітряні загрози потенційного противника.
+
+Objective: Clear the checkpoint and neutralize any enemy forces in the area.
 ]]

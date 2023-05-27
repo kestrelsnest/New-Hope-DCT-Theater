@@ -1,5 +1,5 @@
 objtype = "fueldump"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 priority = 9
@@ -16,4 +16,6 @@ ROE: Вогонь дозволено. Противника визначено я
 
 Загрози: головною загрозою є протиповітряна оборона противника, включаючи зенітні установки та ракети «земля-повітря».
 Їх потрібно буде нейтралізувати, перш ніж місія STRIKE зможе продовжити.
+
+Primary Target: The primary target is the enemy's fuel tanks. They should be destroyed with high-precision munitions to ensure their complete neutralization.
 ]]

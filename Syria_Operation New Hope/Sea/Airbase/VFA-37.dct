@@ -1,3 +1,4 @@
 objtype = "squadronplayer"
 name = "VFA-37"
 coalition = 2
+airbase = "CVN-74 John C. Stennis"

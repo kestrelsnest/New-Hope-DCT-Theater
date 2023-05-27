@@ -1,5 +1,5 @@
 objtype = "facility"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 coalition = 1 
@@ -16,4 +16,6 @@ desc = [[
 ROE: Вогонь дозволено
 
 Загрози: ворожі солдати, озброєний персонал служби безпеки та можливі міни-пастки або вибухівка на об’єкті.
+
+Objective: destroy the facility and destroy all enemy personnel
 ]]

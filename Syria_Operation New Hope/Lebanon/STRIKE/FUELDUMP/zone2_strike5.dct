@@ -1,5 +1,5 @@
 objtype = "fueldump"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 priority = 9
@@ -10,4 +10,6 @@ desc = [[
 Мета: Мета цієї місії полягає в тому, щоб знищити склад постачання та порушити здатність ворога забезпечити свої військові операції.
 
 Загрози: у цьому районі очікуються наземні сили ППО та інші наземні сили противника.
+
+Objective: The objective of this mission is to destroy a supply depot and disrupt the enemy's ability to support its military operations.
 ]]

@@ -1,5 +1,5 @@
 objtype = "facility"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 coalition = 1 
@@ -18,4 +18,6 @@ ROE: Вогонь дозволено
 Загрози: ворожі сили на об’єкті добре озброєні та можуть мати доступ до передової зброї.
 Навколо закладу також можуть бути встановлені пастки або вибухові пристрої.
 Крім того, об’єкт може бути захищений засобами протиповітряної оборони, тому необхідно бути обережними під час будь-яких повітряних операцій.
+
+Main objective: The main building of the scientific research institution, where most of the research and development is done.
 ]]

@@ -1,0 +1,94 @@
+Welcome to Kestrel's Nest
+https://kestrelsnest.co.ua/
+
+### How to play ###
+
+Operation New Hope is a persistent campaign based on the Dynamic Campaign Tools (DCT) scripting framework. The mission features a complex tasking system
+
+- To get a mission use comms menu: F10. Other -> F4. Mission
+
+- You can choose a mission by TYPE or select one from the LIST. 
+
+- Additionally, you can join other players' missions by entering a mission code in the JOIN option.
+
+- Before the take-off, it is recommended to review the BRIEFING and CHECK PAYLOAD for any weapon restrictions.
+
+- The kneeboard contains additional information such as frequencies, weapon restrictions, and airfield charts that can be useful during the mission.
+
+Check Campaign Status at: 
+https://kestrelsnest.co.ua/
+
+### Plot ###
+
+Israel invaded Lebanon in 1982 to destroy the Palestine Liberation Organization (PLO). Under international pressure it was forced to retreat, leaving only a small buffer zone along the border. When the war ended most factions laid down their arms in 1989–1991, but Hezbollah continued the confrontation with the support of Syria, Russia, and Iran…
+
+###
+
+August 4, 1996 
+On August 4, 1996, two explosions rang out in the port of Beirut, the capital of Lebanon, with an interval of 15 minutes. The second powerful explosion was about 2 kilotons in a TNT equivalent. The blast wave almost destroyed the port infrastructure and damaged buildings at a distance of up to 10 km. As a result, at least 220 people died, 6,000 were injured, and 110 went missing.
+
+August 5, 1996 
+The US Embassy in Lebanon said that at least one American citizen was killed and several others were injured due to the powerful explosions that occurred on August 4 in the port of Beirut. 
+
+The main suspect is Hezbollah.
+
+September 2, 1996 
+Hezbollah launched a new attack in which several Israeli border guards were killed.
+
+September 3, 1996 
+The governments of Russia, Syria, and Iran have declared their full support for Hezbollah. 
+
+September 5, 1996 
+Russia, Syria, and Iran Air Force declared a No-Fly Zone over Lebanon.
+
+September 8, 1996
+Hezbollah with support of Syrian Forces invaded norhern and eastern parts of Israel.
+
+September 10, 1996 
+Combined Joint Task Forces in the Meditteranean Sea started an air operation against military facilities in Lebanon to push back and destroy Syrian bases and military groups and weaken Hezbollah’s influence, recognized as a terrorist organization by most countries of the world. 
+
+- Establish air supremacy over Lebanon by disabling the command subsystem (and subsequently the entire air defense system of Lebanon and Syria
+
+- Destroy military facilities in Lebanon and the armed forces of Hezbollah
+
+- Capture all major Lebanon Airports
+
+- Fight against the entire spectrum of military objects of great importance on the territory of the whole of Lebanon and beyond
+
+### COMMS ###
+  
+ FC-3 pilots: Mute default AWACS calls. Press two times LShift+M (receive mode).
+  
+### SRS ###
+  
+251.00 MHz AM     ATC
+
+### AWACS / OPERATION COMMS ###
+  
+290.00 MHz AM     DARKSTAR (Cyprus)
+295.00 MHz AM     MAGIC (Israel)
+  
+133.00 MHz AM     CAP operations
+134.00 MHz AM     CAS/Strike/SEAD Operations
+315.00 MHz AM     Helo/CSAR Operations
+  
+### GCI ###
+
+315.00 MHz AM     HUMAN GCI
+
+### CARRIER STRIKE GROUP ###
+  
+274.00 MHz AM     CVN-74 John C. Stennis 74X / ICLS: 14 / ACLS: 374.00
+275.00 MHz AM     HMS Invincible 75X
+
+### TANKERS ###
+  
+320.00 MHz AM     TEXACO TXC, 66X / Boom
+330.00 MHz AM     ARCO ARC, 67X / Basket
+335.00 MHz AM     SHELL SHL, 68X / Basket
+
+### FARPS ###
+  
+142.00 MHz AM     LONDON 42X
+144.00 MHz AM     DALLAS 44X
+  

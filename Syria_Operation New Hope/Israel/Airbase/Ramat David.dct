@@ -6,7 +6,6 @@ subordinates = {
 	"106st",
 	"172nd",
 	"450th",
-	"No83",
 }
 desc = "Ramat David"
 recoverytype = "land"

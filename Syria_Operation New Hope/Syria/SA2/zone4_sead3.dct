@@ -1,5 +1,5 @@
 objtype = "sam"
-intel = 4
+intel = 3
 coalition = 1
 cost = 15
 priority = 10

@@ -1,5 +1,5 @@
 objtype = "facility"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 coalition = 1 
@@ -8,4 +8,6 @@ desc = [[
 Завдання: нейтралізувати електростанцію.
 
 Основна ціль: головний корпус електростанції.
+
+Task: neutralize the power plant.
 ]]

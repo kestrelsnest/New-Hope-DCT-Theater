@@ -6,6 +6,8 @@ subordinates = {
     "731st",
     "13th",
     "No1",
+    "No75",
+    "VF-143",
 }
 desc = "King Hussein Air College"
 recoverytype = "land"

@@ -1,5 +1,5 @@
 objtype = "c2"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 priority = 5
@@ -16,4 +16,6 @@ ROE: Вогонь дозволено. Противник активно поши
 
 Загрози: ворог може мати озброєну охорону, розміщену біля телевізійної станції, а також інші сили поблизу, які можуть відповісти на атаку.
 Навколишня територія також може бути густонаселеною, тому важливо уникнути цивільних жертв.
+
+Primary Target: The TV station building itself is the primary target. We need to neutralize any enemy forces inside and secure the building.
 ]]

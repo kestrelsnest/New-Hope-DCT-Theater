@@ -1,5 +1,5 @@
 objtype = "ewr"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 priority = 10

@@ -1,5 +1,5 @@
 objtype = "oca"
-intel = 4
+intel = 3
 coalition = 1
 cost = 20
 priority = 10
@@ -10,4 +10,6 @@ desc = [[
 Мета: знищити авіабазу противника та позбавити його можливості вести наступальну діяльність в регіоні.
 
 Загрози: системи ППО, наземні війська та авіація противника.
+
+The goal: to destroy the enemy's air base and deprive him of the opportunity to conduct offensive activities in the region.
 ]]

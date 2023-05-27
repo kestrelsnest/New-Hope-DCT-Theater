@@ -1,3 +1,4 @@
 objtype = "squadronplayer"
 name = "13th"
 coalition = 2
+airbase = "King Hussein Air College"

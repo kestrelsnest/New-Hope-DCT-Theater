@@ -1,14 +1,12 @@
 objtype = "airbase"
-name = "CVN-74 John C. Stennis"
+name = "HMS Invincible"
 coalition = 2
 subordinates = {
-    "VFA-37",
-    "VF-102",
+	"No83",
 }
-desc = "CVN-74 John C. Stennis"
+desc = "HMS Invincible"
 recoverytype = "land"
 takeofftype = "runway"
-tacan = "74X STN"
-icls = 14
+tacan = "75X INV"
 cost = 25
 spawnalways = true
